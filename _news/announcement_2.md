@@ -23,7 +23,7 @@ For the late fall / early winter 2023 session, we’ll meet every Saturday at @1
 
 Full Texts: Horkheimer, [“The Present Situation of Social Philosophy and the Tasks of an Institute for Social Research”](https://www.marxists.org/reference/archive/horkheimer/1931/present-situation.htm) (1931), [“Notes on Science and the Crisis”](https://monoskop.org/images/7/74/Horkheimer_Max_Critical_Theory_Selected_Essays_2002.pdf) (1932). Adorno, [“The Actuality of Philosophy”](https://platypus1917.org/wp-content/uploads/adorno_actualityphilosophy-1.pdf) (1931).
 
-Recommended Texts / Selections from: Horkheimer, [“History and Psychology”]() (1932); Adorno, [“On the Social Situation of Music”]() (1932); Erich Fromm, [“The Method and Function of an Analytic Social Psychology”]() (1932); Leo Löwenthal, [“On Sociology of Literature”](https://www.marxists.org/reference/archive/lowenthal/1932/literature.htm) (1932).
+Recommended Texts / Selections from: Horkheimer, [“History and Psychology”](/assets/pdf/announcement_2/history-and-psychology-1932-1.pdf) (1932); Adorno, [“On the Social Situation of Music”](/assets/pdf/announcement_2/adorno-social-situ-music-32.pdf) (1932); Erich Fromm, [“The Method and Function of an Analytic Social Psychology”](/assets/pdf/announcement_2/fromm-method-and-function.pdf) (1932); Leo Löwenthal, [“On Sociology of Literature”](https://www.marxists.org/reference/archive/lowenthal/1932/literature.htm) (1932).
 
 ### Focused Group Studies of ZfS Texts and Topics
 
