@@ -1,0 +1,1 @@
+James Callahan/Crane is writing a dissertation on post-Kantian German philosophy and natural history. Teaching with a focus on designing courses on the (comparative) history of world philosophy.
