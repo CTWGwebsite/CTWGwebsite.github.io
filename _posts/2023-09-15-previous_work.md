@@ -18,12 +18,12 @@ related_posts: true
     Outtake from the Erste Marxistische Arbeitswoche (1923) group photograph, in which almost everyone is trying to figure out what to do with their hands
 </div>
 
-For the most recent updates on working group activities, check out the posts on our home page and our spring 2024 report [here](/_news/announcement_4.md).
+For the most recent updates on working group activities, check out the posts on our home page and our spring 2024 report [here](/news/announcement_4.md).
 
 ### Past CTWG Reading Group Sessions (2023-2024)
 
 **The Fight for the Dialectic of Enlightenment (Summer 2024):**
-Link to the full schedule and reading list [here](/_news/announcement_3.md).
+Link to the full schedule and reading list [here](/news/announcement_3.md).
 
 Recordings (uploaded as they are edited):
 
