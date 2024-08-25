@@ -29,9 +29,9 @@ Recommended Texts / Selections from: Horkheimer, [“History and Psychology”](
 
 **Saturday, November 25th** – Marcuse, [“The Concept of Essence”](https://monoskop.org/images/5/57/Marcuse_Herbert_Negations_Essays_in_Critical_Theory_2009.pdf) (1936). Introduction and Discussion by Mac Parker.
 
-**Saturday, December 2nd** – Horkheimer, [“A New Concept of Ideology?”](https://crittheoryworkgroup.blog/wp-content/uploads/2023/11/a-new-concept-of-ideology-1930.pdf) (1930). Introduction and Discussion by Sam Thomas.
+**Saturday, December 2nd** – Horkheimer, [“A New Concept of Ideology?”](/assets/pdf/announcement_2/a-new-concept-of-ideology-1930.pdf) (1930). Introduction and Discussion by Sam Thomas.
 
-**Saturday, December 9th** – Selections from: Horkheimer, [“Materialism and Morality”]() (1933) and [“Materialism and Metaphysics”](https://monoskop.org/images/7/74/Horkheimer_Max_Critical_Theory_Selected_Essays_2002.pdf) (1933). Introduction and Discussion by Esther Planas Balduz.
+**Saturday, December 9th** – Selections from: Horkheimer, [“Materialism and Morality”](/assets/pdf/announcement_2/horkheimer-materialism-and-morality-1.pdf) (1933) and [“Materialism and Metaphysics”](https://monoskop.org/images/7/74/Horkheimer_Max_Critical_Theory_Selected_Essays_2002.pdf) (1933). Introduction and Discussion by Esther Planas Balduz.
 
 **Saturday, December 16th** – Selections from: Adorno, In Search of Wagner (1938/1952). Introduction and Discussion by Zachary Loeffler.
 
