@@ -10,7 +10,6 @@ thumbnail: /assets/img/post7.jpg
 featured: false
 authors:
   - name: J.E. Morain
-    url: "https://CTWGwebsite.github.io/people"
 toc:
   - sidebar: true
   - name: Translators Introduction

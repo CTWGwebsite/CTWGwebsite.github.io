@@ -10,7 +10,6 @@ thumbnail: /assets/img/post3.jpg
 featured: true
 authors:
   - name: Zachary Loeffler
-    url: "https://CTWGwebsite.github.io/people"
     affiliations:
       name: University of Chicago
 ---
