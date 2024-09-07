@@ -43,7 +43,7 @@ We’ll also try to cover some previously untranslated material on economic plan
 
 ### CTWG Blog – Late April / Early May
 
-Stay tuned for blog posts in the next few weeks – from recaps of previous presentations on <a href="/blog/2024/help_for_the_helpless">Adorno’s belligerently communist music theory</a> to <a href="/blog/2024/krahl-translation">reports from the Erich Fromm archive on the early plans for what would become the IfS’s Studien über Autorität und Familie (1936)</a>. In the future, expect to see more regular posts on our blog as we generate studies, write up research reports, and summarize past presentations/discussions.
+Stay tuned for blog posts in the next few weeks – from recaps of previous presentations on <a href="/blog/2024/help_for_the_helpless">Adorno’s belligerently communist music theory</a> to <a href="/blog/2024/Krahl-translation">reports from the Erich Fromm archive on the early plans for what would become the IfS’s Studien über Autorität und Familie (1936)</a>. In the future, expect to see more regular posts on our blog as we generate studies, write up research reports, and summarize past presentations/discussions.
 
 ---
 

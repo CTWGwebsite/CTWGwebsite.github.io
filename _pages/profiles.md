@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: JamesC.jpg 
     content: about_callahan.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -18,7 +18,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
+    image: ZachL.jpeg
     content: about_loeffler.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -26,16 +26,32 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: JEMorain.jpg
+    content: about_morain.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: EstherP.jpg
+    content: about_balduz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: right
+    image: SamT.jpg
+    content: about_thomas.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: AnatarahK.jpg
+    content: about_kaf.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
@@ -43,7 +59,7 @@ profiles:
       <p>Your City, State 12345</p>
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_parker.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
@@ -51,7 +67,7 @@ profiles:
       <p>Your City, State 12345</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_lin.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
@@ -59,23 +75,7 @@ profiles:
       <p>Your City, State 12345</p>
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_tejus.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
