@@ -42,7 +42,7 @@ profiles:
     content: about_lin.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: prof_pic_color.png
+    image: TejusR.jpg
     content: about_tejus.md
     image_circular: false # crops the image to make it circular
 ---
