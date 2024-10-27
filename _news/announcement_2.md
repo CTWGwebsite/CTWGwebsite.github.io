@@ -11,6 +11,13 @@ New reading group! Late Fall / Early Winter 2023. The Zeitschrift für Sozialfor
 
 ---
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/news/zeitschrift_fur_sozialforschung_1932_titel-1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 [Sign-up](https://forms.gle/gLAKyiR6vWJC44dq6) here for the late fall / early winter (Nov-Dec) ’23 session of the critical theory working group, which will focus on some of the strongest and strangest articles of the first nine volumes of the [Zeitschrift für Sozialforschung](https://www.pdcnet.org/zfs/Zeitschrift-f%C3%BCr-Sozialforschung) (1932-1941). Once signed up, you will receive emails with reading materials for each meeting a week in advance and audio recordings of each meeting the day after.
 
 ### Dates and schedule for mid-November/mid-December meetings
@@ -34,5 +41,11 @@ Recommended Texts / Selections from: Horkheimer, [“History and Psychology”](
 **Saturday, December 9th** – Selections from: Horkheimer, [“Materialism and Morality”](/assets/pdf/announcement_2/horkheimer-materialism-and-morality-1.pdf) (1933) and [“Materialism and Metaphysics”](https://monoskop.org/images/7/74/Horkheimer_Max_Critical_Theory_Selected_Essays_2002.pdf) (1933). Introduction and Discussion by Esther Planas Balduz.
 
 **Saturday, December 16th** – Selections from: Adorno, In Search of Wagner (1938/1952). Introduction and Discussion by Zachary Loeffler.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/news/ivi_4.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---

@@ -1,1 +1,1 @@
-waiting.
+Jefferson Lin plays music and reads about philosophy. They are interested in exploring the roles of interpretation, music, and history in relation to critical theory. They are currently concluding an undergraduate degree in musicology.
