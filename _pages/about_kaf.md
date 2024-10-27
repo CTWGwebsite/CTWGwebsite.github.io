@@ -1,1 +1,1 @@
-Anatarah Bin AlKaf is a computational biologist and engineer. He is also a union organizer and activist. He is working on figuring out the reciprocal relationship between machine and organism in hopes of contributing to a critical theory of nature.
+Anatarah Bin AlKaf is a computational biologist and engineer. He is also a union organizer and activist. He is working on figuring out the reciprocal relationship between mechanism (machine) and teleology (organism) in hopes of contributing to a critical theory of nature.
