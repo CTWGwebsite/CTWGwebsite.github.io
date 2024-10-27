@@ -31,8 +31,8 @@ Recordings (uploaded as they are edited):
     <li>June 1st, “Prefaces” to DoE. (James/Crane) <a href="https://www.patreon.com/posts/prefaces-to-doe-106806484">Recorded session here</a></li>
     <li>June 8th, “Concept of Enlightenment.” (James/Crane) <a href="https://www.patreon.com/posts/concept-of-6-8-110396854">Recorded session here</a></li>
     <li>June 15th, “Excursus I: Odysseus or Myth and Enlightenment.” (Mac Parker) <a href="https://www.patreon.com/posts/odysseus-6-15-107819849">Recorded session here</a></li>
-    <li>June 22nd, “Excursus II: Juliette or Enlightenment and Morality” (Esther Planas Balduz)</li>
-    <li>June 29th, “The Culture Industry: Enlightenment as Mass Deception” (Zachary Loeffler)</li>
+    <li>June 22nd, “Excursus II: Juliette or Enlightenment and Morality” (Esther Planas Balduz) <a href="https://www.patreon.com/posts/6-22-excursus-ii-111666274">Recorded session here</a></li>
+    <li>June 29th, “The Culture Industry: Enlightenment as Mass Deception” (Zachary Loeffler) <a href="https://www.patreon.com/posts/6-29-culture-as-113616865">Recorded session here</a></li>
     <li>July 6th, “Elements of Anti-Semitism: Limits of Enlightenment” (J.E. Morain)</li>
     <li>July 13th, “Notes and Sketches” (Group Presentation)</li>
 </ul>
