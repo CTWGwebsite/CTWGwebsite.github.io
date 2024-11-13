@@ -3,7 +3,7 @@ layout: distill
 title: The Origins of Studien über Autorität und Familie
 description: A report on the early history of the Institute for Social Research's Studien über Autorität und Familie project
 tags: archive translation study report
-giscus_comments: false
+giscus_comments: true
 related_posts: true
 date: 2024-04-27
 thumbnail: /assets/img/post6.jpg
