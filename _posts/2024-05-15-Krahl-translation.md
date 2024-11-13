@@ -3,7 +3,7 @@ layout: distill
 title: Hans-Jürgen Krahl's Authorities and Revolution
 description: 
 tags: translation 
-giscus_comments: false
+giscus_comments: true
 related_posts: true
 date: 2024-05-15
 thumbnail: /assets/img/post7.jpg

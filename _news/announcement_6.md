@@ -10,7 +10,8 @@ Written by: J. E. Morain
 
 ---
 > Dialectics is the quest to see the new in the old
-> - Adorno, _Against Epistemology_
+
+> Adorno, _Against Epistemology_
 
 This update has been due for some time! We concluded our Summer 2024 reading group session on _Dialectic of Enlightenment_ all the way back in July, and it is now October. (Recordings of these sessions are still being uploaded to our [Patreon](https://www.patreon.com/crittheoryworkgroup), where they are—and always will be—available for free.) In the meantime, we migrated to a new website engineered by our webmaster and resident dialectical biology enthusiast Anatarah. Most of our effort, however, has been directed towards producing the first issue of our journal, which after much deliberation we have christened _Margin Notes: A Journal of Critical Theory_.
 

@@ -3,7 +3,7 @@ layout: distill
 title: Help for the Helpless Teddie’s Music Theory of Communism, A Prelude
 description: A brief introduction to the music theory of communism
 tags: write-up
-giscus_comments: false
+giscus_comments: true
 related_posts: true
 date: 2024-04-21
 thumbnail: /assets/img/post3.jpg
