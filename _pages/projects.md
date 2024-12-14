@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Coming Soon!
+description: Here are some of the projects that we have been working on.
 nav: true
 nav_order: 3
 display_categories: [Journal, Podcast]
