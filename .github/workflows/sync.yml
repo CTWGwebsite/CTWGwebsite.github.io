@@ -13,6 +13,6 @@ jobs:
       - name: Template Sync
         uses: AndreasAugustin/actions-template-sync@v2.4.2
         with:
-          source_repo_path: "https://github.com/alshedivat/al-folio.git"
+          source_repo_path: "alshedivat/al-folio.git"
           source_branch: "main"
           github_token: ${{ secrets.GITHUB_TOKEN }}
