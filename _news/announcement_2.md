@@ -1,33 +1,38 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: >
+    Sign-up Sheet for CTWG Late Fall / Early Winter 2023 – The Zeitschrift für Sozialforschung: Organon of Early Critical Theory
+date: 2023-10-30 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+New reading group! Late Fall / Early Winter 2023. The Zeitschrift für Sozialforschung: Organon of Early Critical Theory.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+[Sign-up](https://forms.gle/gLAKyiR6vWJC44dq6) here for the late fall / early winter (Nov-Dec) ’23 session of the critical theory working group, which will focus on some of the strongest and strangest articles of the first nine volumes of the [Zeitschrift für Sozialforschung](https://www.pdcnet.org/zfs/Zeitschrift-f%C3%BCr-Sozialforschung) (1932-1941). Once signed up, you will receive emails with reading materials for each meeting a week in advance and audio recordings of each meeting the day after.
 
-#### Hipster list
+### Dates and schedule for mid-November/mid-December meetings
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+For the late fall / early winter 2023 session, we’ll meet every Saturday at @1-3PM over Zoom for five consecutive weeks for guided discussion of texts and topics from the [Zeitschrift für Sozialforschung](https://www.pdcnet.org/zfs/Zeitschrift-f%C3%BCr-Sozialforschung) (1932-1941) chosen and introduced by CTWG members.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+### Introduction to The Zeitschrift für Sozialforschung: Organon of Early Critical Theory (1932-1941).
+
+**Saturday, November 18th** – Report on CTWG Activities (2023); Theoretical-Historical Introduction to the ZfS. Presentation and Discussion by James/Crane.
+
+Full Texts: Horkheimer, [“The Present Situation of Social Philosophy and the Tasks of an Institute for Social Research”](https://www.marxists.org/reference/archive/horkheimer/1931/present-situation.htm) (1931), [“Notes on Science and the Crisis”](https://monoskop.org/images/7/74/Horkheimer_Max_Critical_Theory_Selected_Essays_2002.pdf) (1932). Adorno, [“The Actuality of Philosophy”](https://platypus1917.org/wp-content/uploads/adorno_actualityphilosophy-1.pdf) (1931).
+
+Recommended Texts / Selections from: Horkheimer, [“History and Psychology”]() (1932); Adorno, [“On the Social Situation of Music”]() (1932); Erich Fromm, [“The Method and Function of an Analytic Social Psychology”]() (1932); Leo Löwenthal, [“On Sociology of Literature”](https://www.marxists.org/reference/archive/lowenthal/1932/literature.htm) (1932).
+
+### Focused Group Studies of ZfS Texts and Topics
+
+**Saturday, November 25th** – Marcuse, [“The Concept of Essence”](https://monoskop.org/images/5/57/Marcuse_Herbert_Negations_Essays_in_Critical_Theory_2009.pdf) (1936). Introduction and Discussion by Mac Parker.
+
+**Saturday, December 2nd** – Horkheimer, [“A New Concept of Ideology?”](https://crittheoryworkgroup.blog/wp-content/uploads/2023/11/a-new-concept-of-ideology-1930.pdf) (1930). Introduction and Discussion by Sam Thomas.
+
+**Saturday, December 9th** – Selections from: Horkheimer, [“Materialism and Morality”]() (1933) and [“Materialism and Metaphysics”](https://monoskop.org/images/7/74/Horkheimer_Max_Critical_Theory_Selected_Essays_2002.pdf) (1933). Introduction and Discussion by Esther Planas Balduz.
+
+**Saturday, December 16th** – Selections from: Adorno, In Search of Wagner (1938/1952). Introduction and Discussion by Zachary Loeffler.
 
 ---
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
