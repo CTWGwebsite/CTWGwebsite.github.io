@@ -6,7 +6,7 @@ title: CTWG # the website title (if blank, full name will be used instead)
 first_name: Critical Theory
 middle_name: 
 last_name: Working Group
-email: crittheoryworkgroup@proton.me
+email: crittheoryworkgroup@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A website for collective self-clarification without consolation
 footer_text: >
@@ -81,6 +81,7 @@ flickr_id: # your flickr id
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
+inspirehep_id: 1010907 # Inspire HEP author ID
 instagram_id: criticaltheoryworkinggroup # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -293,7 +294,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ["robots.txt", "assets/js/search/*.js"]
+  exclude: ["robots.txt", "assets/js/search/*.js", "assets/libs/**/*"]
   uglifier_args:
     harmony: true
 
@@ -350,6 +351,7 @@ enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
@@ -365,7 +367,9 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
+    google_scholar_id,
     html,
+    inspirehep_id,
     pdf,
     poster,
     preview,
