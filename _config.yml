@@ -2,12 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: CTWG # the website title (if blank, full name will be used instead)
+first_name: Critical Theory
+middle_name: 
+last_name: Working Group
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you like the work and want to see more of it, you can shoot us a few bucks! (check the work icon)
+  It would help us cover the costs of the group so far and give us the means to expand the group in the near future. 
+  As long as we are able to keep running the critical theory working group, 
+  it’ll be free and open to anyone interested regardless of background in critical theory.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A website for collective self-clarification without consolation
 footer_text: >
