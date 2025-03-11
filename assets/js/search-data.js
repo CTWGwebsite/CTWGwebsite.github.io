@@ -48,17 +48,6 @@ ninja.data = [{
           window.location.href = "/blog/2025/Antisemitism_and_forgetting/";
         
       },
-    },{id: "post-a-post-with-image-galleries",
-      
-        title: "a post with image galleries",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
     },{id: "post-précis-of-mannheim-s-ideology-and-utopia",
       
         title: "Précis of Mannheim’s Ideology and Utopia",
