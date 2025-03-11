@@ -30,6 +30,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Welcome to the Critical Theory Working Group (CTWG) website. In this website, you will find information about our reading groups, publications, and other resources. For the latest news and updates, please check the announcements below. Similarly, for our latest publications, please check the latest blog posts. For our journal, Margin Notes, please check the <a href='/projects'>projects page</a>.
+
 ### Brief Motivation
 
 The transmission – by reconstruction, criticism, and development – of early (Marxian) critical social theory in the first half of the twentieth century, with a focus on the constellation of thinkers known as, or associated with, “The Frankfurt School”. In the short term, the purpose of this group is to offer open reading groups and free resources to anyone interested in dedicated study of early critical theory, regardless of background or education. In the long term, the modest goal of this group is to provoke and cultivate the critical attitude essential for the immodest project of critical theory: the criticism and abolition of capitalist society.
