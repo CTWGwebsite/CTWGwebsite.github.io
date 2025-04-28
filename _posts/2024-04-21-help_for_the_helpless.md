@@ -7,7 +7,7 @@ giscus_comments: true
 related_posts: true
 date: 2024-04-21
 thumbnail: /assets/img/post3.jpg
-featured: true
+featured: false
 authors:
   - name: Zachary Loeffler
     affiliations:

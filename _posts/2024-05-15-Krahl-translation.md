@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Hans-Jürgen Krahl's Authorities and Revolution
-description: 
+description: A translation of Hans-Jürgen Krahl's 1968 text "Authorities and Revolution"
 tags: translation 
 giscus_comments: true
 related_posts: true

@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Suffering Reified. On Adorno’s Thoughts on Reification and Suffering
-description: 
+description: Antisemitism and forgetting
 tags: report study write-up 
 giscus_comments: true
 related_posts: true
