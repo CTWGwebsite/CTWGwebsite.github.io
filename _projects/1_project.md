@@ -8,7 +8,7 @@ category: Journal
 giscus_comments: true
 ---
 
-The critical theory working group (CTWG) is proud to present the first volume of Margin Notes. This publication has been a labor of love and we are excited to share it with you! In this page, you will find the PDF version of the journal, and a list of the articles included in this volume. (Please note we are still working on the HTML version of the articles, so stay tuned for that!)
+The critical theory working group (CTWG) is proud to present the first volume of Margin Notes. This publication has been a labor of love and we are excited to share it with you! In this page, you will find the PDF and HTML versions of the journal, and a list of the articles included in this volume. To incentivize reading the PDF version of the journal, we have left out some of the appendices from the HTML version. The PDF version contains all the articles and appendices and is our recommended version for reading.
 
 ## PDF Version
 
@@ -27,12 +27,13 @@ Click [here](/assets/pdf/journal/Margin_notes_1_final_full.pdf) to download the 
 
 ### Articles
 
-1. Preface: Recovering the Kernels of Early Critical Theory by James Crane
-2. Essence in the Archaic: Notes Towards a Historical Materialist Account of the Concept of Essence by Mac Parker
-3. On the Falsity of Prevailing Ideas: The Concept of Ideology in Early Critical Theory by Samuel J. Thomas
-4. Analytic Social Psychology as Critical Social Theory: A Reconstruction of Erich Fromm’s Early Work by J. E. Morain
-5. Horkheimer’s Materialism vs Morals and Metaphysics: Its Limitations and Possibilities by Esther Planas Balduz
-6. On the Social Situation of Adorno’s Critical Music Theory by Zachary Loeffler
+1. <a href="/blog/2025/MarginNotes_1_1/">Preface: Recovering the Kernels of Early Critical Theory by James Crane </a>
+2. <a href="/blog/2025/MarginNotes_1_2/">Essence in the Archaic: Notes Towards a Historical Materialist Account of the Concept of Essence by Mac Parker </a>
+3. <a href="/blog/2025/MarginNotes_1_3/">On the Falsity of Prevailing Ideas: The Concept of Ideology in Early Critical Theory by Samuel J. Thomas </a>
+4. <a href="/blog/2025/MarginNotes_1_4/">Analytic Social Psychology as Critical Social Theory: A Reconstruction of Erich Fromm’s Early Work by J. E. Morain </a>
+5. <a href="/blog/2025/MarginNotes_1_5/">Horkheimer’s Materialism vs Morals and Metaphysics: Its Limitations and Possibilities by Esther Planas Balduz </a>
+6. <a href="/blog/2025/MarginNotes_1_6/">On the Social Situation of Adorno’s Critical Music Theory by Zachary Loeffler </a>
+
 
 ### Appendix
 
