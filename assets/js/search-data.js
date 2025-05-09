@@ -37,11 +37,77 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-suffering-reified-on-adorno-s-thoughts-on-reification-and-suffering",
+        },{id: "post-on-the-social-situation-of-adorno-s-critical-music-theory",
+      
+        title: "On the Social Situation of Adorno’s Critical Music Theory",
+      
+      description: "Article from Margin Notes 1",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/MarginNotes_1_6/";
+        
+      },
+    },{id: "post-horkheimer-s-materialism-vs-morals-and-metaphysics-its-limitations-and-possibilities",
+      
+        title: "Horkheimer’s Materialism vs Morals and Metaphysics. Its Limitations and Possibilities",
+      
+      description: "Article from Margin Notes 1",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/MarginNotes_1_5/";
+        
+      },
+    },{id: "post-analytic-social-psychology-as-critical-social-theory-a-reconstruction-of-erich-fromm-s-early-work",
+      
+        title: "Analytic Social Psychology as Critical Social Theory. A Reconstruction of Erich Fromm’s Early...",
+      
+      description: "Article from Margin Notes 1",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/MarginNotes_1_4/";
+        
+      },
+    },{id: "post-on-the-falsity-of-prevailing-ideas-the-concept-of-ideology-in-early-critical-theory",
+      
+        title: "On the Falsity of Prevailing Ideas. The Concept of Ideology in Early Critical...",
+      
+      description: "Article from Margin Notes 1",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/MarginNotes_1_3/";
+        
+      },
+    },{id: "post-essence-in-the-archaic-notes-towards-a-historical-materialist-account-of-the-concept-of-essence",
+      
+        title: "Essence in the Archaic. Notes Towards a Historical Materialist Account of the Concept...",
+      
+      description: "Article from Margin Notes 1",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/MarginNotes_1_2/";
+        
+      },
+    },{id: "post-recovering-the-kernels-of-early-critical-theory",
+      
+        title: "Recovering the Kernels of Early Critical Theory",
+      
+      description: "Article from Margin Notes 1",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/MarginNotes_1_1/";
+        
+      },
+    },{id: "post-suffering-reified-on-adorno-s-thoughts-on-reification-and-suffering",
       
         title: "Suffering Reified. On Adorno’s Thoughts on Reification and Suffering",
       
-      description: "",
+      description: "Antisemitism and forgetting",
       section: "Posts",
       handler: () => {
         
@@ -52,7 +118,7 @@ ninja.data = [{
       
         title: "Précis of Mannheim’s Ideology and Utopia",
       
-      description: "",
+      description: "A brief reconstruction of Mannheim’s thought",
       section: "Posts",
       handler: () => {
         
@@ -63,7 +129,7 @@ ninja.data = [{
       
         title: "Hans-Jürgen Krahl&#39;s Authorities and Revolution",
       
-      description: "",
+      description: "A translation of Hans-Jürgen Krahl&#39;s 1968 text &quot;Authorities and Revolution&quot;",
       section: "Posts",
       handler: () => {
         
