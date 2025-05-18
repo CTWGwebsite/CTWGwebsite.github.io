@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-on-the-social-situation-of-adorno-s-critical-music-theory",
+        },{id: "post-blog-submission-guidelines",
+      
+        title: "Blog Submission Guidelines",
+      
+      description: "Blog submissions are now open!",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Blog-Submissions/";
+        
+      },
+    },{id: "post-on-the-social-situation-of-adorno-s-critical-music-theory",
       
         title: "On the Social Situation of Adorno’s Critical Music Theory",
       
