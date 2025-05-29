@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-blog-submission-guidelines",
+        },{id: "post-from-racket-theory-to-real-domination",
+      
+        title: "From Racket Theory to Real Domination",
+      
+      description: "A Comparison of the Frankfurt School and Jacques Camatte",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Rackets_Camatte/";
+        
+      },
+    },{id: "post-blog-submission-guidelines",
       
         title: "Blog Submission Guidelines",
       
