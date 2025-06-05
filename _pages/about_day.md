@@ -1,0 +1,1 @@
+Cameron Day is a sociologist and instructor in Chicago. He studies institutions, social control, knowledge, and culture.

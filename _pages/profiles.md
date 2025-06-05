@@ -45,4 +45,13 @@ profiles:
     image: TejusR.jpg
     content: about_tejus.md
     image_circular: false # crops the image to make it circular
+  - align: left
+    image: CamD.jpg
+    content: about_day.md
+  - align: right
+    image: MorganL.png
+    content: about_lily.md
+  - align: left
+    image: SebK.jpg
+    content: about_kokesch.md
 ---

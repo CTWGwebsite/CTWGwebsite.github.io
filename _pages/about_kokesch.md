@@ -1,0 +1,1 @@
+Sebastian Kokesch lives and studies in Vienna, Austria. Their research traces the concept of 'Trauerarbeit' between critical theory and militant practice. They remain a believer in the utopian spirit of freudomarxism and communism's triumph over the fear of death.

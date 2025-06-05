@@ -1,0 +1,1 @@
+Morgan Lily is a philosopher, writer, and legal scholar from the UK interested in the role of law and art in marxist critical theory. She would like to pursue a PhD on the legal theory of Gillian Rose in the hopes of furthering their life’s project: To Destroy The Law.

@@ -40,9 +40,9 @@ This gives us much of what is fundamental in the Frankfurt School’s critical a
 
 I do not have the space for an extended reading of Adorno’s “Reflections,” so I am just going to translate the essential theses above into the problematic we discover in the broader racket theory corpus:
 
-1. The equation history \= class struggles \= prehistory poses a challenge on the terrain of theory: to find unity in history with reference to future freedom (communism-as-society) by and while positing class struggle as its motor (communism-as-the-real-movement).  
-2. The ascendance of monopolies that abrogate the principle of economic competition requires a rethinking of the concept of class because “the concept of class \[...\] is modeled on the bourgeoisie itself. As the anonymous unity of the owners of the means of production and their various appendages, the bourgeoisie is the class par excellence.”[^9] Now “the ruling class disappears behind the concentration of capital;”[^10] it consists of monopolists and monolith social capital. Problem (A) is further complicated. History is the history of monopolies. (Thus, pseudo-marxisms: Veblen, progressivism, social democracy, theoretical Popular Frontism, etc.)  
-3. Finally, the homological hierarchies of domination present in organized labor and monopoly capital throw the destiny of the proletariat into question. The return of direct domination is complemented by a tendency towards ‘voluntary’ conformism. Freedom becomes a dirty word.[^11]
+A. The equation history \= class struggles \= prehistory poses a challenge on the terrain of theory: to find unity in history with reference to future freedom (communism-as-society) by and while positing class struggle as its motor (communism-as-the-real-movement).  
+B. The ascendance of monopolies that abrogate the principle of economic competition requires a rethinking of the concept of class because “the concept of class \[...\] is modeled on the bourgeoisie itself. As the anonymous unity of the owners of the means of production and their various appendages, the bourgeoisie is the class par excellence.”[^9] Now “the ruling class disappears behind the concentration of capital;”[^10] it consists of monopolists and monolith social capital. Problem (A) is further complicated. History is the history of monopolies. (Thus, pseudo-marxisms: Veblen, progressivism, social democracy, theoretical Popular Frontism, etc.)  
+C. Finally, the homological hierarchies of domination present in organized labor and monopoly capital throw the destiny of the proletariat into question. The return of direct domination is complemented by a tendency towards ‘voluntary’ conformism. Freedom becomes a dirty word.[^11]
 
 The theory of rackets, imagined in this way as a fragmentary response to Adorno’s inaugural essay, is an answer to the question of how theory can maintain the core of historical materialism (A) while undergoing a fundamental rethinking of the concept of class (B) and class struggle (C).[^12] I lack the space to explain it below, but Camatte’s problematic is similar. Now for racket theory proper.
 
@@ -72,7 +72,7 @@ Horkheimer’s condemnation of rackets is wide-ranging, but it is not an attack 
 
 More concretely, Horkheimer was a proponent of workers’ council democracy.[^31] In the racket theory corpus, he and Adorno repeatedly assert that workers are capable of taking over and competently managing the present system of production.[^32] He closely read the articles on the Spanish Civil War that Karl Korsch sent him, and scattered positive references to the anarchists of Spain may indicate sympathy for Korsch’s argument that they were the successors of the revolutionary spirit of 1917.[^33]
 
-# Camatte’s Theory of the Real Domination of Capital
+## Camatte’s Theory of the Real Domination of Capital
 
 Now I turn to summary and analysis of the relevant parts of Jacques Camatte’s oeuvre. I am concerned in particular with Series II of *Invariance* (i.e., the years 1971-1975), which is dominated in content by Camatte’s ambiguous rejection of most of Marxism (or “the theory of the proletariat” as he calls it).[^34]  
 
@@ -89,7 +89,7 @@ Texts following “On Organization” have a somewhat softer position; Camatte e
 
 Once we get into *Invariance*’s third series, it becomes clear that after about 1973 Camatte broke with any and all remotely conventional ideas of revolution. “Resistance,” he writes, “is a disguised \[form of\] waiting, an unspoken hope that the world’s course may still change.”[^49] Instead of resisting, we must “leave the world,” create “communist forms” and “new modes of action,” embrace non-violence, etc. “Men and women will come to realize that they themselves are the determining elements, and that they do not have to abdicate their power to the machine…”[^50] Camatte’s thinking has reached complete tautology. There is no longer anything in it worth discussing.
 
-# Remarks (In Place of a Conclusion)
+## Remarks (In Place of a Conclusion)
 
 The similarities between Horkheimer and Adorno’s theory and that of Camatte are striking. Furthermore, direct inspiration from the Frankfurt School is (probably) not the decisive factor in Camatte’s intellectual development—although surely there was some degree of it, especially in the 1970s. I consider both the Frankfurt School’s racket theory and Camatte’s work to be failed theoretical programs, albeit ones with rational kernels. However, I also think that the Frankfurt School’s failure is more compelling, interesting, and important.  
 
@@ -132,17 +132,17 @@ As I said before, I believe that both theories are ultimately failures. The diff
 
 [^11]:  Adorno, op. cit., Section VIII
 
-[^12]:  Cf. the typescript “Memorandum über Teile des Los Angeles Arbeitsprogramms…” Max Horkheimer Nachlass VI.33 / Na 1 578, 1r-4r https://nbn-resolving.org/urn:nbn:de:hebis:30:2-1118910  
+[^12]:  Cf. the typescript “Memorandum über Teile des Los Angeles Arbeitsprogramms…” Max Horkheimer Nachlass VI.33 / Na 1 578, 1r-4r <a href="https://nbn-resolving.org/urn:nbn:de:hebis:30:2-1118910">https://nbn-resolving.org/urn:nbn:de:hebis:30:2-1118910</a>
 
 [^13]:  Max Horkheimer, “Die Rackets und der Geist” \[1942\] in *Max Horkheimer Gesammelte Schriften*, Bd. 12, ed. Gunzelin Schmid Noerr (S. Fischer Verlag, 1985), 287\.
 
 [^14]:  Horkheimer, “Die Rackets und der Geist,” in *Max Horkheimer gesammelte Schriften*, Bd. 12, 288\.
 
-[^15]:  Max Horkheimer, “On the Sociology of Class Relations” (1943). For the purposes of this essay I am consulting a critical edition of the text that we at the Critical Theory Working Group have compiled on the basis of the variants found in the Horkheimer archive. It will be published on our blog shortly. See Max Horkheimer Nachlass XI.16-17 / Na 1 639 https://nbn-resolving.org/urn:nbn:de:hebis:30:2-1110761  
+[^15]:  Max Horkheimer, “On the Sociology of Class Relations” (1943). For the purposes of this essay I am consulting a critical edition of the text that we at the Critical Theory Working Group have compiled on the basis of the variants found in the Horkheimer archive. It will be published on our blog shortly. See Max Horkheimer Nachlass XI.16-17 / Na 1 639 <a href="https://nbn-resolving.org/urn:nbn:de:hebis:30:2-1110761"> https://nbn-resolving.org/urn:nbn:de:hebis:30:2-1110761</a>
 
 [^16]:  Max Horkheimer, “On the Sociology of Class Relations”
 
-[^17]:  Typescript “Notizen zum Programm des Buches, 3.8.1942,” Max Horkheimer Max Horkheimer Nachlass XI.10.1 / Na 1 805, 180-181 https://nbn-resolving.org/urn:nbn:de:hebis:30:2-1112682
+[^17]:  Typescript “Notizen zum Programm des Buches, 3.8.1942,” Max Horkheimer Max Horkheimer Nachlass XI.10.1 / Na 1 805, 180-181 <a href="https://nbn-resolving.org/urn:nbn:de:hebis:30:2-1112682">https://nbn-resolving.org/urn:nbn:de:hebis:30:2-1112682</a>
 
 [^18]:  Max Horkheimer, “Geschichte der amerikanischen Arbeiterschaft” (1942) in *Max Horkheimer gesammelte Schriften*, Bd. 12, 260
 
