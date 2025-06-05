@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-from-racket-theory-to-real-domination",
+        },{id: "post-class-and-rackets-conditions-part-1",
+      
+        title: "Class and Rackets, Conditions (Part 1)",
+      
+      description: "Part 1 on the IfS&#39; Racket-concept",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Rackets_part1/";
+        
+      },
+    },{id: "post-from-racket-theory-to-real-domination",
       
         title: "From Racket Theory to Real Domination",
       
@@ -261,6 +272,11 @@ ninja.data = [{
           description: "Volume 1 of Margin Notes. Kernels of early critical theory.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-racketology",
+          title: 'Racketology',
+          description: "Fragments of Critical Theory of Domination.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
