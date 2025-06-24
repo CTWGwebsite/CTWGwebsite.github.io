@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Class and Rackets, Conditions (Part 1)
-description: Part 1 on the IfS' Racket-concept
+title: Class and Rackets, Part I - Conditions
+description: Part 1 on the Frankfurt School's racket concept
 tags: report write-up study
 categories: Racketology
 giscus_comments: true
@@ -13,11 +13,11 @@ authors:
   - name: Re Tejus
 toc:
   - sidebar: true
-  - name: Class and Rackets
+  - name: Conditions
   - name: Class, Contract and Monopoly
 ---
 
-## Class and Rackets: Conditions 
+## Conditions 
 
 What are the conditions that make class society possible?<d-footnote>Thanks to James Crane for translating most texts cited in the essay.</d-footnote> Human beings sustain themselves through their interaction with the natural world around them. Unlike most animals, humans do not have immediate access to their own conditions of reproduction. The tools and knowledge necessary for their metabolic interchange with nature is mediated through social formations, even what constitutes human needs at any given historical period is socially mediated, unlike what modern psychology might want us to believe.<d-footnote>See Adorno’s critique of the false division of basic and non-basic needs in Theodor W Adorno, “Theses on Need,” trs. Martin Shuster and Iain Macdonald in *Adorno Studies*, Volume 1, Issue 1, January 2017, 103-105.</d-footnote> Horkheimer notes that the invention of tools marked the division between domination purely based on physical force and that based on social control.<d-footnote>Max Horkheimer, “Die Rackets und der Geist” [1942] in Max Horkheimer Gesammelte Schriften, Bd. 12, ed. Gunzelin Schmid Noerr (S. Fischer Verlag, 1985), 287</d-footnote> Human production (and reproduction) is mediated through tools that arise in specific social relations, the same tools in turn start to mediate the social relations, human organizations and ways of living come to be “prescribed by the nature of such tools.”<d-footnote>Ibid.</d-footnote> Marx conceptualizes tools as *organs* of production, as a corporeal part of the human body required for human metabolism:
 

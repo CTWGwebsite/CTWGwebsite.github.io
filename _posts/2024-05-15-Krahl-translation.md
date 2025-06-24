@@ -9,7 +9,8 @@ date: 2024-05-15
 thumbnail: /assets/img/post7.jpg
 featured: false
 authors:
-  - name: J.E. Morain
+  - name: Hans-Jürgen Krahl
+  - name: J. E. Morain
 toc:
   - sidebar: true
   - name: Translators Introduction

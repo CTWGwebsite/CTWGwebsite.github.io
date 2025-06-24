@@ -10,7 +10,7 @@ date: 2025-03-22
 thumbnail: /assets/img/post16.png
 featured: false
 authors:
-  - name: J.E. Morain
+  - name: J. E. Morain
 toc:
   - sidebar: true
   - name: Introduction

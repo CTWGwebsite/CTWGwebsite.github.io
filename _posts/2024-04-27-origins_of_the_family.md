@@ -9,7 +9,7 @@ date: 2024-04-27
 thumbnail: /assets/img/post6.jpg
 featured: false
 authors:
-  - name: J.E. Morain
+  - name: J. E. Morain
 toc:
   - sidebar: true
   - name: Prefatory Remarks
