@@ -1,1 +1,1 @@
-J.E. Morain is an independent scholar working in critical theory and philosophy. His interests include Marxism, psychoanalysis, German idealism, 20th century French philosophy, and the New Left. He is also a translator of German and French.
+J. E. Morain is an independent scholar working in critical theory and philosophy. His interests include Marxism, psychoanalysis, German idealism, 20th century French philosophy, and the New Left. He is also a translator of German and French.

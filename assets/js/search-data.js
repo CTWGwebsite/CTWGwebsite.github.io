@@ -37,11 +37,44 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-class-and-rackets-conditions-part-1",
+        },{id: "post-introducing-racket-theory",
       
-        title: "Class and Rackets, Conditions (Part 1)",
+        title: "Introducing Racket Theory",
       
-      description: "Part 1 on the IfS&#39; Racket-concept",
+      description: "On the History and Themes of the Frankfurt School’s Racket Theory",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/RacketIntro/";
+        
+      },
+    },{id: "post-fragments-and-texts-on-racket-theory",
+      
+        title: "Fragments and Texts on Racket Theory",
+      
+      description: "Texts by Max Horkheimer | Translated and edited by James Crane",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/RacketTexts/";
+        
+      },
+    },{id: "post-on-the-sociology-of-class-relations",
+      
+        title: "On the Sociology of Class Relations",
+      
+      description: "Essay by Max Horkehimer | Edited by James Crane",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/ClassRelations/";
+        
+      },
+    },{id: "post-class-and-rackets-part-i-conditions",
+      
+        title: "Class and Rackets, Part I - Conditions",
+      
+      description: "Part 1 on the Frankfurt School&#39;s racket concept",
       section: "Posts",
       handler: () => {
         
