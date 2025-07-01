@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-introducing-racket-theory",
+        },{id: "post-class-and-rackets-part-ii-domination",
+      
+        title: "Class and Rackets, Part II - Domination",
+      
+      description: "Part 2 on the Frankfurt School&#39;s racket concept",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Rackets_part2/";
+        
+      },
+    },{id: "post-introducing-racket-theory",
       
         title: "Introducing Racket Theory",
       
@@ -310,6 +321,11 @@ ninja.data = [{
           description: "Fragments of Critical Theory of Domination.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-critique-of-the-podcast-form",
+          title: 'Critique of the Podcast Form',
+          description: "A critical theory podcast by critical theory work group.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
