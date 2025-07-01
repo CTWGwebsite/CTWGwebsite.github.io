@@ -7,7 +7,7 @@ categories: Racketology
 giscus_comments: true
 related_posts: true
 date: 2025-06-24
-thumbnail: /assets/img/cain5.png
+thumbnail: /assets/img/post27.png
 featured: false
 authors:
   - name: James Crane
@@ -17,7 +17,7 @@ toc:
   - name: The Beginnings of 'Racket Theorie'
   - name: Thwarted Plans for Publication
   - name: The Reflexivity of Racket Theory
-  - name: Additional Remarks on the Texts and their Conent
+  - name: Additional Remarks on the Texts and their Content
   - name: Notes
 ---
 
