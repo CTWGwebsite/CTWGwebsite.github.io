@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-class-and-rackets-part-ii-domination",
+        },{id: "post-the-economic-limits-of-racketology",
+      
+        title: "The Economic Limits of Racketology",
+      
+      description: "Putting the Racket-concept to the Test",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Limits_of_Rackets/";
+        
+      },
+    },{id: "post-class-and-rackets-part-ii-domination",
       
         title: "Class and Rackets, Part II - Domination",
       
