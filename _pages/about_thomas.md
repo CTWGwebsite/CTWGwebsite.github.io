@@ -1,1 +1,1 @@
-Sam Thomas is a Ph.D. student in philosophy at the University of Arizona. More importantly, he is a bassist in a band called Burial Mask.
+Sam Thomas is a philosophy student writing a dissertation on democratic backsliding, and more importantly,  a bassist in a band called Burial Mask.

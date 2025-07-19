@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-the-economic-limits-of-racketology",
+        },{id: "post-karl-august-wittfogel-39-s-natural-factors-in-economic-history",
+      
+        title: "Karl August Wittfogel&#39;s Natural Factors in Economic History",
+      
+      description: "An excerpt translation of Karl August Wittfogel&#39;s 1932 text &quot;Natural Factors in Economic History&quot;",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Wittfogel-translation/";
+        
+      },
+    },{id: "post-the-economic-limits-of-racketology",
       
         title: "The Economic Limits of Racketology",
       
