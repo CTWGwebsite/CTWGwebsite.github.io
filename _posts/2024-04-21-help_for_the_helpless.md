@@ -10,8 +10,6 @@ thumbnail: /assets/img/post3.jpg
 featured: false
 authors:
   - name: Zachary Loeffler
-    affiliations:
-      name: University of Chicago
 ---
 
 <div class="row mt-3">

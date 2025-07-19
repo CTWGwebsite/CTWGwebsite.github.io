@@ -11,6 +11,8 @@ thumbnail: /assets/img/post26.png
 featured: false
 authors:
   - name: Max Horkheimer
+    affiliations:
+      name: Frankfurt School
 ---
 
 <div class="row mt-3">

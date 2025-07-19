@@ -11,8 +11,6 @@ thumbnail: /assets/img/post18.jpg
 featured: false
 authors:
   - name: Zachary Loeffler
-    affiliations:
-      name: University of Chicago
 ---
 
 > *If I prefer to write about music that is because I have all the

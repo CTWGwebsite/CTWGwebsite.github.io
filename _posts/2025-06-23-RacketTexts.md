@@ -11,6 +11,8 @@ thumbnail: /assets/img/post25.png
 featured: false
 authors:
   - name: Max Horkheimer
+    affiliations:
+      name: Frankfurt School
 toc:
   - sidebar: true
   - name: Fragments

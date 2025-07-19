@@ -11,8 +11,6 @@ thumbnail: /assets/img/post15.jpg
 featured: false
 authors:
   - name: Sam Thomas
-    affiliations: 
-      name: University of Arizona
 toc:
   - sidebar: true
   - name: Introduction

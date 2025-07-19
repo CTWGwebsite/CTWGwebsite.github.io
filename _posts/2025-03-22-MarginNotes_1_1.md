@@ -11,8 +11,6 @@ thumbnail: /assets/img/post19.jpg
 featured: true
 authors:
   - name: James Crane
-    affiliations:
-      name: Emory University
 ---
 
 
@@ -314,7 +312,7 @@ unresolved integrity of which can only be presented through critique.
 
 In "Essence in the Archaic: Notes Towards a Historical Materialist
 Account of the Concept of Essence," Mac Parker takes on the challenge
-posed in Marcuse's "Concept of Essence" (1936)<d-footnote>Cf. "ZfS in English" for links to available English translations of the essays published in the ISR's ZfS/SPSS. CTWG Blog, November 6, 2024. <https://ctwgwebsite.github.io/blog/2024/language/></d-footnote> the
+posed in Marcuse's "Concept of Essence" (1936)<d-footnote>Cf. "ZfS in English" for links to available English translations of the essays published in the ISR's ZfS/SPSS. CTWG Blog, November 6, 2024. <https://ctwgwebsite.github.io/blog/2023/ZfS/></d-footnote> the
 historical-materialist reconceptualization of the concept of essence,
 understood by the early critical theorists as the potential freedom
 inherent in different historical situations in which the doctrine of
