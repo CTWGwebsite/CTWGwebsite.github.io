@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-karl-august-wittfogel-39-s-natural-factors-in-economic-history",
+        },{id: "post-natural-factors-in-economic-history-by-k-a-wittfogel",
       
-        title: "Karl August Wittfogel&#39;s Natural Factors in Economic History",
+        title: "Natural Factors in Economic History by K. A. Wittfogel",
       
-      description: "An excerpt translation of Karl August Wittfogel&#39;s 1932 text &quot;Natural Factors in Economic History&quot;",
+      description: "An excerpt translation of K. A. Wittfogel&#39;s 1932 text &quot;Natural Factors in Economic History&quot;",
       section: "Posts",
       handler: () => {
         
