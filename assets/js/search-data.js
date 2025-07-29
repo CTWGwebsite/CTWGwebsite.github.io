@@ -45,7 +45,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/Wittfogel-translation/";
+          window.location.href = "/blog/2025/Wittfogel_translation/";
         
       },
     },{id: "post-the-economic-limits-of-racketology",
