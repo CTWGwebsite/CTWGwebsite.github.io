@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: On the Sociology of Class Relations
-description: Essay by Max Horkehimer | Edited by James Crane
+description: Essay by Max Horkheimer | Edited by James Crane
 tags: translation archive
 categories: Racketology
 giscus_comments: true
@@ -11,8 +11,6 @@ thumbnail: /assets/img/post26.png
 featured: false
 authors:
   - name: Max Horkheimer
-    affiliations:
-      name: Frankfurt School
 ---
 
 <div class="row mt-3">
