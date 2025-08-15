@@ -96,7 +96,7 @@ ninja.data = [{
       
         title: "On the Sociology of Class Relations",
       
-      description: "Essay by Max Horkehimer | Edited by James Crane",
+      description: "Essay by Max Horkheimer | Edited by James Crane",
       section: "Posts",
       handler: () => {
         
@@ -333,6 +333,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
+            },},{id: "news-update-summer-fall-2025-reading-group-announcement",
+          title: 'Update + Summer/Fall 2025 Reading Group Announcement',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9/";
             },},{id: "projects-margin-notes-volume-1",
           title: 'Margin Notes Volume 1',
           description: "Volume 1 of Margin Notes. Kernels of early critical theory.",
