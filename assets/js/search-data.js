@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-natural-factors-in-economic-history-by-k-a-wittfogel",
+        },{id: "post-variations",
+      
+        title: "Variations",
+      
+      description: "Fragmentary Theoretical Assays",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Variations/";
+        
+      },
+    },{id: "post-natural-factors-in-economic-history-by-k-a-wittfogel",
       
         title: "Natural Factors in Economic History by K. A. Wittfogel",
       
