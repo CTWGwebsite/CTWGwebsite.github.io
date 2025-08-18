@@ -46,7 +46,7 @@ Primary Reading:
 
 * Eghbariah, “Toward the Nakba as a Legal Concept;” Introduction, Sections I-II (pp. 888-955; 67 pages)
 
-### August 13 — “Toward the Nakba as a Legal Concept” by Rabea Eghbariah (continued) (presented by J. E. Morain)
+### September 13 — “Toward the Nakba as a Legal Concept” by Rabea Eghbariah (continued) (presented by J. E. Morain)
 
 Primary Reading:
 
