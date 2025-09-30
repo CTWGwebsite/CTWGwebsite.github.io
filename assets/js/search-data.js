@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-variations",
+        },{id: "post-two-unpublished-fragments-by-horkheimer-and-adorno",
+      
+        title: "Two Unpublished Fragments by Horkheimer and Adorno",
+      
+      description: "On the Tasks of Post-War Marxism | Translated and Edited by James Crane",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/HA_Fragments_1946/";
+        
+      },
+    },{id: "post-variations",
       
         title: "Variations",
       
