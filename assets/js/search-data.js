@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-two-unpublished-fragments-by-horkheimer-and-adorno",
+        },{id: "post-racketology-and-the-development-of-competition",
+      
+        title: "Racketology and the Development of Competition",
+      
+      description: "A Reply to Mac Parker",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Competition/";
+        
+      },
+    },{id: "post-two-unpublished-fragments-by-horkheimer-and-adorno",
       
         title: "Two Unpublished Fragments by Horkheimer and Adorno",
       
