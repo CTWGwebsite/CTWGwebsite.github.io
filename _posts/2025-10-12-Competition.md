@@ -6,7 +6,7 @@ tags: report write-up study
 categories: Racketology
 giscus_comments: true
 related_posts: true
-date: 2025-10-11
+date: 2025-10-12
 thumbnail: /assets/img/post34.png
 featured: false
 authors:
@@ -63,6 +63,8 @@ Within distribution, while monopolization may allow large capitals to insulate t
 I do not believe that Horkheimer contests any of this. What racketization has produced is not a fundamental change in the nature of competition nor a decline in its prevalence, but rather a lifting of the veil of free competition to reveal the continued existence of direct rule in daily life, a continuous expansion of the realm of competition through the inclusion of non-capitalist participants, and a declining commitment to the old rules of competition, marked by the growing set of methods employed in the struggle to capture value.
 
 This is perhaps the most prescient aspect of Horkheimer's theory of racketization. Whether through fake job listings, crypto scams, phishing texts, or other schemes made possible by our dependence on the internet, swindling has become an increasingly common method for the capture of surplus value, especially amid an ever-growing reserve army of labor. What this contributes to is the state of general resentment in the “unsuccessful competitors” and “vanquished opponents,”[^34] with the mass shooting as its primary expression. This is the logical endpoint of total competition: the elimination of as many competitors as possible in the “chaotic war of all against all.”[^35]
+
+## Notes
 
 [^1]:  Friedrich A. von Hayek, *The Road to Serfdom* (Routledge, 2006), 205\.
 
