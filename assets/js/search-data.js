@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-racketology-and-the-development-of-competition",
+        },{id: "post-reflections-on-the-right-and-its-violence-part-i",
+      
+        title: "Reflections on the Right and its Violence, Part I",
+      
+      description: "A Theoretical Investigation into Reactionary Violence",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/ReactionPt1/";
+        
+      },
+    },{id: "post-racketology-and-the-development-of-competition",
       
         title: "Racketology and the Development of Competition",
       
