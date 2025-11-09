@@ -102,6 +102,8 @@ At the linguistic level, the right’s speech is empty and devoid of trust. Idea
 
 Beneath the jargon and facades, however, the right confesses to another master besides the god of death: Mammon. Perhaps we could say, using the jargon of religious studies, that the culture of the right is henotheistic: there is one supreme god (death), but worship of other deities (Mammon) is permissible. Or is it a polytheistic religious ecosystem in which the Mammonites have their own temples separate from the Mortuators? Or maybe Mammon is like Brahman, the unseen and impersonal master god, and Death is like Kali as seen by the Shaktas, the active essence of Brahman in personal form? I jest, but the reality of conflicts on the right is sometimes inscrutable to us on the left. We try to argue that so-and-so politically represents this faction of capital and what’s-his-name represents the opposing one. Appealing to things like contingency, tactical flexibility, genuine disagreements, and interpersonal friction can seem like a cop out, but it’s the best answer. They fight for a variety of reasons, but they always seem to make up in the end. When exterminatory fascism is ascendant, capitalists fall in line and look for a way to make some money from the situation. When economically liberal forms of reaction reign, the fascists enjoy a role in their coalition whether formally or otherwise. Capitalism is the unsurpassable political horizon of reaction.
 
+[Read Part II](https://ctwgwebsite.github.io/blog/2025/ReactionPt2/)
+
 ## Notes
 
 [^1]:  In this I am attempting to follow Alberto Toscano’s lead; see his *Late Fascism* (Verso, 2023).

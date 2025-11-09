@@ -28,6 +28,8 @@ toc:
     </div>
 </div>
 
+[Read Part I](https://ctwgwebsite.github.io/blog/2025/ReactionPt1/)
+
 ## V \- Translatio Imperii
 
 Do these people—the killers—matter? Do they hold positions of power? Are their acts historically impactful beyond the immediate carnage? Sociologically speaking, they do not seem to originate from the same source as military, special forces, border patrol, police, etc. This is a new development: The old kind of killers—the Klan and Black Legion, the ex-officers of the Freikorps and squadristi, Eastern European pogromists, or even the neo-fascist bombers of the Italian Years of Lead—were largely the same kind of people hired to be the state’s official killers, and they had extensive connections to state officials who could turn a blind eye when needed. 
@@ -127,7 +129,7 @@ What is the bigger scandal—that Nazi Satanists are grooming children to self-h
 
 [^4]:  To the extent that he is aware of the history, he distorts it. And so the neo-fascist bombers of Italy are made into ‘accelerationist’ collapse-mongers *avant la lettre*, when in reality their strategy, to the extent that it existed, was centered around trying to provoke a military coup d’État—hopefully supported by the US—in the style of the 1967 coup in Greece, not foment abstract social collapse. Similarly, James Mason articulated his promotion of terrorism as a last ditch *defense* of “western civilization,” not an attack on it.
 
-[^5]:  ibid.
+[^5]:  Klippenstein, op. cit.
 
 [^6]:  Nathan J. Robinson, “Bill Clinton’s Act of Terrorism,” *Jacobin*, 10/12/2016. [https://jacobin.com/2016/10/bill-clinton-al-shifa-sudan-bombing-khartoum](https://jacobin.com/2016/10/bill-clinton-al-shifa-sudan-bombing-khartoum) 
 
