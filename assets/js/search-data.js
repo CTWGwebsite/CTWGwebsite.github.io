@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-reflections-on-the-right-and-its-violence-part-i",
+        },{id: "post-reflections-on-the-right-and-its-violence-part-ii",
+      
+        title: "Reflections on the Right and its Violence, Part II",
+      
+      description: "A Theoretical Investigation into Reactionary Violence",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/ReactionPt2/";
+        
+      },
+    },{id: "post-reflections-on-the-right-and-its-violence-part-i",
       
         title: "Reflections on the Right and its Violence, Part I",
       
