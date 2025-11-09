@@ -3,7 +3,7 @@ layout: distill
 title: Reflections on the Right and its Violence, Part I
 description: A Theoretical Investigation into Reactionary Violence
 tags: report write-up study
-categories: Racketology
+categories:
 giscus_comments: true
 related_posts: true
 date: 2025-10-16
