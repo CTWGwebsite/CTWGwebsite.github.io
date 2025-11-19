@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-reflections-on-the-right-and-its-violence-part-ii",
+        },{id: "post-roots-amp-branches-boris-hessen-s-marxist-science-historiography",
+      
+        title: "Roots &amp; Branches. Boris Hessen’s Marxist Science Historiography",
+      
+      description: "An Introduction to a Marxist Science Historiography",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/RootsandBranches_Hessen/";
+        
+      },
+    },{id: "post-reflections-on-the-right-and-its-violence-part-ii",
       
         title: "Reflections on the Right and its Violence, Part II",
       
@@ -283,7 +294,7 @@ ninja.data = [{
       
         title: "Hans-Jürgen Krahl&#39;s Authorities and Revolution",
       
-      description: "A translation of Hans-Jürgen Krahl&#39;s 1968 text &quot;Authorities and Revolution&quot;",
+      description: "A translation of Hans-Jürgen Krahl&#39;s 1968 text &quot;Authorities and Revolution&quot; | by J. E. Morain",
       section: "Posts",
       handler: () => {
         
