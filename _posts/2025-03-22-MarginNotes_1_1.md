@@ -8,7 +8,7 @@ giscus_comments: true
 related_posts: true
 date: 2025-03-22
 thumbnail: /assets/img/post19.jpg
-featured: true
+featured: false
 authors:
   - name: James Crane
 ---
