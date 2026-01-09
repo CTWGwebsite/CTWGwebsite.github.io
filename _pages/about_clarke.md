@@ -1,0 +1,1 @@
+Jerome Clarke is a philosophy professor at American University. He mostly writes on computation, race, and social life. His current book project reads the history of black critical theory as Technik Theorie.
