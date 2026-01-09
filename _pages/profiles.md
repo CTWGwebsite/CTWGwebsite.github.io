@@ -54,4 +54,7 @@ profiles:
   - align: left
     image: SebK.jpg
     content: about_kokesch.md
+  - align: right
+    image: JeromeC.jpg
+    content: about_clarke.md
 ---
