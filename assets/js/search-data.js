@@ -3,21 +3,28 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-home",
+    title: "home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-news",
+  },{id: "nav-about",
+          title: "about",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/about/";
+          },
+        },{id: "nav-news",
           title: "news",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/index.html";
           },
-        },{id: "nav-blog",
-          title: "blog",
+        },{id: "nav-articles",
+          title: "articles",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -37,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-roots-amp-branches-boris-hessen-s-marxist-science-historiography",
+        },{id: "post-horkheimer-and-korsch-collectivisation-during-the-spanish-civil-war-or-the-spirit-of-the-anti-racket",
+      
+        title: "Horkheimer and Korsch. Collectivisation during the Spanish (Civil) War or The Spirit of...",
+      
+      description: "On the Actuality of the &quot;Anti-racket Forms&quot;",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/Spain_AntiRacket/";
+        
+      },
+    },{id: "post-roots-amp-branches-boris-hessen-s-marxist-science-historiography",
       
         title: "Roots &amp; Branches. Boris Hessen’s Marxist Science Historiography",
       
@@ -424,6 +442,11 @@ ninja.data = [{
           description: "A critical theory podcast by critical theory work group.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-margin-notes-volume-2",
+          title: 'Margin Notes Volume 2',
+          description: "Coming soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
