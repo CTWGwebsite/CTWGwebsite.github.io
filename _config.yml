@@ -7,16 +7,14 @@ first_name: Critical Theory
 middle_name: 
 last_name: Working Group
 contact_note: >
-  If you like the work and want to see more of it, you can shoot us a few bucks! (check the work icon)
-  It would help us cover the costs of the group so far and give us the means to expand the group in the near future. 
-  As long as we are able to keep running the critical theory working group, 
-  it’ll be free and open to anyone interested regardless of background in critical theory.
+  You can find most of our contact details and social media presence in the menu bar
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A website for collective self-clarification without consolation
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  To help support us, please chip in via <a href="https://www.patreon.com/crittheoryworkgroup" target="_blank">Patreon</a>
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /about/favicon_io/favicon-32x32.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

@@ -10,7 +10,7 @@ date: 2025-03-22
 thumbnail: /assets/img/post15.jpg
 featured: false
 authors:
-  - name: Sam Thomas
+  - name: Hélène Égalité
 toc:
   - sidebar: true
   - name: Introduction

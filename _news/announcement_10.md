@@ -23,7 +23,7 @@ We would like to thank everybody who attended the [Fall reading group “Views f
 
 Secondly, we are happy to announce that [Critique of the Podcast Form](https://linktr.ee/CritiqueofthePodcastForm) is now widely available on most podcast platforms (with the sole exception of Spotify) and should be releasing regularly on a biweekly schedule (every other Thursday) going forward. We have made a Patreon post for listeners to offer feedback. Please let us know what you think there or via our Discord server.
 
-Thirdly, we completed our first dossier on [racketology](projects/2\_project/). We are quite proud of the project. There, you will find introductions to the enigmatic racket concept, various fragmentary applications, new translations, and other articles that we hope you find fruitful.
+Thirdly, we completed our first dossier on [racketology](/projects/2_project/). We are quite proud of the project. There, you will find introductions to the enigmatic racket concept, various fragmentary applications, new translations, and other articles that we hope you find fruitful.
 
 Fourthly, if you are eager to immerse yourself further in the first generation of Critical Theory, one of our editors at CTWG, James Crane, has been posting various excellent translations over his substack [Substudies](https://jamescrane.substack.com/).
 

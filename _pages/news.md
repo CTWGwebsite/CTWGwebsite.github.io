@@ -3,12 +3,12 @@ layout: default
 title: news
 permalink: /news/
 nav: true
-nav_order: 1
+nav_order: 2
 pagination:
   enabled: true
   collection: news
   permalink: /page/:num/
-  per_page: 5
+  per_page: 6
   sort_field: date
   sort_reverse: true
   trail:

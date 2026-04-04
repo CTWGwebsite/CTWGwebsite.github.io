@@ -26,8 +26,8 @@ profiles:
     content: about_balduz.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: SamT.jpg
-    content: about_thomas.md
+    image: HelenE.jpg
+    content: about_egalite.md
     image_circular: false # crops the image to make it circular
   - align: left
     image: AnatarahK.jpg
