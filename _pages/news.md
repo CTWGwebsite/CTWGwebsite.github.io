@@ -1,9 +1,9 @@
 ---
 layout: default
-title: news
+title: News
 permalink: /news/
 nav: true
-nav_order: 2
+nav_order: 5
 pagination:
   enabled: true
   collection: news

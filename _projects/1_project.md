@@ -29,7 +29,7 @@ Click [here](/assets/pdf/journal/Margin_notes_1_final_full.pdf) to download the 
 
 1. <a href="/blog/2025/MarginNotes_1_1/">Preface: Recovering the Kernels of Early Critical Theory by James Crane </a>
 2. <a href="/blog/2025/MarginNotes_1_2/">Essence in the Archaic: Notes Towards a Historical Materialist Account of the Concept of Essence by Mac Parker </a>
-3. <a href="/blog/2025/MarginNotes_1_3/">On the Falsity of Prevailing Ideas: The Concept of Ideology in Early Critical Theory by Hélène Égalité </a>
+3. <a href="/blog/2025/MarginNotes_1_3/">On the Falsity of Prevailing Ideas: The Concept of Ideology in Early Critical Theory by Helen Eleanor </a>
 4. <a href="/blog/2025/MarginNotes_1_4/">Analytic Social Psychology as Critical Social Theory: A Reconstruction of Erich Fromm’s Early Work by J. E. Morain </a>
 5. <a href="/blog/2025/MarginNotes_1_5/">Horkheimer’s Materialism vs Morals and Metaphysics: Its Limitations and Possibilities by Esther Planas Balduz </a>
 6. <a href="/blog/2025/MarginNotes_1_6/">On the Social Situation of Adorno’s Critical Music Theory by Zachary Loeffler </a>

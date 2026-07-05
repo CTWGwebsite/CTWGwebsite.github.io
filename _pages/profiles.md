@@ -1,10 +1,10 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: The current editorial board
 nav: true
-nav_order: 5
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -27,7 +27,7 @@ profiles:
     image_circular: false # crops the image to make it circular
   - align: right
     image: HelenE.jpg
-    content: about_egalite.md
+    content: about_eleanor.md
     image_circular: false # crops the image to make it circular
   - align: left
     image: AnatarahK.jpg

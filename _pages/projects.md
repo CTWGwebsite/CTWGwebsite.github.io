@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: Archive
+permalink: /archive/
 description: Here are some of the projects that we have been working on.
 nav: true
-nav_order: 4
-display_categories: [Journal, Dossier, Podcast]
+nav_order: 3
+display_categories: [Journal, Dossier]
 horizontal: false
 ---
 

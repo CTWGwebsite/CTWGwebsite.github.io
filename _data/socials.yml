@@ -38,7 +38,11 @@ rss_icon: true # set to true to show the RSS icon
 # unsplash_id: # your unsplash id
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# wikidata_id: # your wikidata id
+# wikipedia_id: # your wikipedia id (Case sensitive)
+work_url: https://www.patreon.com/crittheoryworkgroup # work page URL
+x_username: crit_theory_grp # your X handle
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-#   title: Custom Social
-#   url: https://www.alberteinstein.com/
+#   logo: https://favicon.im/patreon.com # can be png, svg, jpg
+#   title: Patreon
+#   url: https://www.patreon.com/crittheoryworkgroup

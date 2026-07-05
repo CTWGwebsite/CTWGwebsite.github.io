@@ -1,12 +1,10 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /about/
 nav: true
-nav_order: 1
-subtitle: > 
-  <p>Critical Theory Working Group</p>
-  <p>A website for collective self-clarification without consolation</p>
+nav_order: 5
+subtitle: 
 
 profile:
   align: right
