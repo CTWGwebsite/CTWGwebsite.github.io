@@ -4,377 +4,384 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-home",
-    title: "home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-about",
-          title: "about",
+  },{id: "nav-diwan",
+          title: "Diwan",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-archive",
+          title: "Archive",
+          description: "Here are some of the projects that we have been working on.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/archive/";
+          },
+        },{id: "nav-podcast",
+          title: "Podcast",
+          description: "Link to Critique of the Podcast Form",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/podcast/";
+          },
+        },{id: "nav-people",
+          title: "People",
+          description: "The current editorial board",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "nav-about",
+          title: "About",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/about/";
           },
         },{id: "nav-news",
-          title: "news",
+          title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/index.html";
           },
-        },{id: "nav-articles",
-          title: "articles",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "Here are some of the projects that we have been working on.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "The current editorial board",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "post-horkheimer-and-korsch-collectivisation-during-the-spanish-civil-war-or-the-spirit-of-the-anti-racket",
-      
-        title: "Horkheimer and Korsch. Collectivisation during the Spanish (Civil) War or The Spirit of...",
-      
-      description: "On the Actuality of the &quot;Anti-racket Forms&quot;",
-      section: "Posts",
-      handler: () => {
         
-          window.location.href = "/blog/2026/Spain_AntiRacket/";
+          title: "Horkheimer and Korsch. Collectivisation during the Spanish (Civil) War or The Spirit of...",
         
-      },
-    },{id: "post-roots-amp-branches-boris-hessen-s-marxist-science-historiography",
-      
-        title: "Roots &amp; Branches. Boris Hessen’s Marxist Science Historiography",
-      
-      description: "An Introduction to a Marxist Science Historiography",
-      section: "Posts",
-      handler: () => {
+        description: "On the Actuality of the &quot;Anti-racket Forms&quot;",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Spain_AntiRacket/";
+          
+        },
+      },{id: "post-roots-amp-branches-boris-hessen-s-marxist-science-historiography",
         
-          window.location.href = "/blog/2025/RootsandBranches_Hessen/";
+          title: "Roots &amp; Branches. Boris Hessen’s Marxist Science Historiography",
         
-      },
-    },{id: "post-reflections-on-the-right-and-its-violence-part-ii",
-      
-        title: "Reflections on the Right and its Violence, Part II",
-      
-      description: "A Theoretical Investigation into Reactionary Violence",
-      section: "Posts",
-      handler: () => {
+        description: "An Introduction to a Marxist Science Historiography",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/RootsandBranches_Hessen/";
+          
+        },
+      },{id: "post-reflections-on-the-right-and-its-violence-part-ii",
         
-          window.location.href = "/blog/2025/ReactionPt2/";
+          title: "Reflections on the Right and its Violence, Part II",
         
-      },
-    },{id: "post-reflections-on-the-right-and-its-violence-part-i",
-      
-        title: "Reflections on the Right and its Violence, Part I",
-      
-      description: "A Theoretical Investigation into Reactionary Violence",
-      section: "Posts",
-      handler: () => {
+        description: "A Theoretical Investigation into Reactionary Violence",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ReactionPt2/";
+          
+        },
+      },{id: "post-reflections-on-the-right-and-its-violence-part-i",
         
-          window.location.href = "/blog/2025/ReactionPt1/";
+          title: "Reflections on the Right and its Violence, Part I",
         
-      },
-    },{id: "post-racketology-and-the-development-of-competition",
-      
-        title: "Racketology and the Development of Competition",
-      
-      description: "A Reply to Mac Parker",
-      section: "Posts",
-      handler: () => {
+        description: "A Theoretical Investigation into Reactionary Violence",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ReactionPt1/";
+          
+        },
+      },{id: "post-racketology-and-the-development-of-competition",
         
-          window.location.href = "/blog/2025/Competition/";
+          title: "Racketology and the Development of Competition",
         
-      },
-    },{id: "post-two-unpublished-fragments-by-horkheimer-and-adorno",
-      
-        title: "Two Unpublished Fragments by Horkheimer and Adorno",
-      
-      description: "On the Tasks of Post-War Marxism | Translated and Edited by James Crane",
-      section: "Posts",
-      handler: () => {
+        description: "A Reply to Mac Parker",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Competition/";
+          
+        },
+      },{id: "post-two-unpublished-fragments-by-horkheimer-and-adorno",
         
-          window.location.href = "/blog/2025/HA_Fragments_1946/";
+          title: "Two Unpublished Fragments by Horkheimer and Adorno",
         
-      },
-    },{id: "post-variations",
-      
-        title: "Variations",
-      
-      description: "Fragmentary Theoretical Assays",
-      section: "Posts",
-      handler: () => {
+        description: "On the Tasks of Post-War Marxism | Translated and Edited by James Crane",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/HA_Fragments_1946/";
+          
+        },
+      },{id: "post-variations",
         
-          window.location.href = "/blog/2025/Variations/";
+          title: "Variations",
         
-      },
-    },{id: "post-natural-factors-in-economic-history-by-k-a-wittfogel",
-      
-        title: "Natural Factors in Economic History by K. A. Wittfogel",
-      
-      description: "An excerpt translation of K. A. Wittfogel&#39;s 1932 text &quot;Natural Factors in Economic History&quot;",
-      section: "Posts",
-      handler: () => {
+        description: "Fragmentary Theoretical Assays",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Variations/";
+          
+        },
+      },{id: "post-natural-factors-in-economic-history-by-k-a-wittfogel",
         
-          window.location.href = "/blog/2025/Wittfogel_translation/";
+          title: "Natural Factors in Economic History by K. A. Wittfogel",
         
-      },
-    },{id: "post-the-economic-limits-of-racketology",
-      
-        title: "The Economic Limits of Racketology",
-      
-      description: "Putting the Racket-concept to the Test",
-      section: "Posts",
-      handler: () => {
+        description: "An excerpt translation of K. A. Wittfogel&#39;s 1932 text &quot;Natural Factors in Economic History&quot;",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Wittfogel_translation/";
+          
+        },
+      },{id: "post-the-economic-limits-of-racketology",
         
-          window.location.href = "/blog/2025/Limits_of_Rackets/";
+          title: "The Economic Limits of Racketology",
         
-      },
-    },{id: "post-class-and-rackets-part-ii-domination",
-      
-        title: "Class and Rackets, Part II - Domination",
-      
-      description: "Part 2 on the Frankfurt School&#39;s racket concept",
-      section: "Posts",
-      handler: () => {
+        description: "Putting the Racket-concept to the Test",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Limits_of_Rackets/";
+          
+        },
+      },{id: "post-class-and-rackets-part-ii-domination",
         
-          window.location.href = "/blog/2025/Rackets_part2/";
+          title: "Class and Rackets, Part II - Domination",
         
-      },
-    },{id: "post-introducing-racket-theory",
-      
-        title: "Introducing Racket Theory",
-      
-      description: "On the History and Themes of the Frankfurt School’s Racket Theory",
-      section: "Posts",
-      handler: () => {
+        description: "Part 2 on the Frankfurt School&#39;s racket concept",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Rackets_part2/";
+          
+        },
+      },{id: "post-introducing-racket-theory",
         
-          window.location.href = "/blog/2025/RacketIntro/";
+          title: "Introducing Racket Theory",
         
-      },
-    },{id: "post-fragments-and-texts-on-racket-theory",
-      
-        title: "Fragments and Texts on Racket Theory",
-      
-      description: "Texts by Max Horkheimer | Translated and edited by James Crane",
-      section: "Posts",
-      handler: () => {
+        description: "On the History and Themes of the Frankfurt School’s Racket Theory",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/RacketIntro/";
+          
+        },
+      },{id: "post-fragments-and-texts-on-racket-theory",
         
-          window.location.href = "/blog/2025/RacketTexts/";
+          title: "Fragments and Texts on Racket Theory",
         
-      },
-    },{id: "post-on-the-sociology-of-class-relations",
-      
-        title: "On the Sociology of Class Relations",
-      
-      description: "Essay by Max Horkheimer | Edited by James Crane",
-      section: "Posts",
-      handler: () => {
+        description: "Texts by Max Horkheimer | Translated and edited by James Crane",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/RacketTexts/";
+          
+        },
+      },{id: "post-on-the-sociology-of-class-relations",
         
-          window.location.href = "/blog/2025/ClassRelations/";
+          title: "On the Sociology of Class Relations",
         
-      },
-    },{id: "post-class-and-rackets-part-i-conditions",
-      
-        title: "Class and Rackets, Part I - Conditions",
-      
-      description: "Part 1 on the Frankfurt School&#39;s racket concept",
-      section: "Posts",
-      handler: () => {
+        description: "Essay by Max Horkheimer | Edited by James Crane",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ClassRelations/";
+          
+        },
+      },{id: "post-class-and-rackets-part-i-conditions",
         
-          window.location.href = "/blog/2025/Rackets_part1/";
+          title: "Class and Rackets, Part I - Conditions",
         
-      },
-    },{id: "post-from-racket-theory-to-real-domination",
-      
-        title: "From Racket Theory to Real Domination",
-      
-      description: "A Comparison of the Frankfurt School and Jacques Camatte",
-      section: "Posts",
-      handler: () => {
+        description: "Part 1 on the Frankfurt School&#39;s racket concept",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Rackets_part1/";
+          
+        },
+      },{id: "post-from-racket-theory-to-real-domination",
         
-          window.location.href = "/blog/2025/Rackets_Camatte/";
+          title: "From Racket Theory to Real Domination",
         
-      },
-    },{id: "post-blog-submission-guidelines",
-      
-        title: "Blog Submission Guidelines",
-      
-      description: "Blog submissions are now open!",
-      section: "Posts",
-      handler: () => {
+        description: "A Comparison of the Frankfurt School and Jacques Camatte",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Rackets_Camatte/";
+          
+        },
+      },{id: "post-blog-submission-guidelines",
         
-          window.location.href = "/blog/2025/Blog-Submissions/";
+          title: "Blog Submission Guidelines",
         
-      },
-    },{id: "post-on-the-social-situation-of-adorno-s-critical-music-theory",
-      
-        title: "On the Social Situation of Adorno’s Critical Music Theory",
-      
-      description: "Article from Margin Notes 1",
-      section: "Posts",
-      handler: () => {
+        description: "Blog submissions are now open!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Blog-Submissions/";
+          
+        },
+      },{id: "post-on-the-social-situation-of-adorno-s-critical-music-theory",
         
-          window.location.href = "/blog/2025/MarginNotes_1_6/";
+          title: "On the Social Situation of Adorno’s Critical Music Theory",
         
-      },
-    },{id: "post-horkheimer-s-materialism-vs-morals-and-metaphysics-its-limitations-and-possibilities",
-      
-        title: "Horkheimer’s Materialism vs Morals and Metaphysics. Its Limitations and Possibilities",
-      
-      description: "Article from Margin Notes 1",
-      section: "Posts",
-      handler: () => {
+        description: "Article from Margin Notes 1",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/MarginNotes_1_6/";
+          
+        },
+      },{id: "post-horkheimer-s-materialism-vs-morals-and-metaphysics-its-limitations-and-possibilities",
         
-          window.location.href = "/blog/2025/MarginNotes_1_5/";
+          title: "Horkheimer’s Materialism vs Morals and Metaphysics. Its Limitations and Possibilities",
         
-      },
-    },{id: "post-analytic-social-psychology-as-critical-social-theory-a-reconstruction-of-erich-fromm-s-early-work",
-      
-        title: "Analytic Social Psychology as Critical Social Theory. A Reconstruction of Erich Fromm’s Early...",
-      
-      description: "Article from Margin Notes 1",
-      section: "Posts",
-      handler: () => {
+        description: "Article from Margin Notes 1",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/MarginNotes_1_5/";
+          
+        },
+      },{id: "post-analytic-social-psychology-as-critical-social-theory-a-reconstruction-of-erich-fromm-s-early-work",
         
-          window.location.href = "/blog/2025/MarginNotes_1_4/";
+          title: "Analytic Social Psychology as Critical Social Theory. A Reconstruction of Erich Fromm’s Early...",
         
-      },
-    },{id: "post-on-the-falsity-of-prevailing-ideas-the-concept-of-ideology-in-early-critical-theory",
-      
-        title: "On the Falsity of Prevailing Ideas. The Concept of Ideology in Early Critical...",
-      
-      description: "Article from Margin Notes 1",
-      section: "Posts",
-      handler: () => {
+        description: "Article from Margin Notes 1",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/MarginNotes_1_4/";
+          
+        },
+      },{id: "post-on-the-falsity-of-prevailing-ideas-the-concept-of-ideology-in-early-critical-theory",
         
-          window.location.href = "/blog/2025/MarginNotes_1_3/";
+          title: "On the Falsity of Prevailing Ideas. The Concept of Ideology in Early Critical...",
         
-      },
-    },{id: "post-essence-in-the-archaic-notes-towards-a-historical-materialist-account-of-the-concept-of-essence",
-      
-        title: "Essence in the Archaic. Notes Towards a Historical Materialist Account of the Concept...",
-      
-      description: "Article from Margin Notes 1",
-      section: "Posts",
-      handler: () => {
+        description: "Article from Margin Notes 1",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/MarginNotes_1_3/";
+          
+        },
+      },{id: "post-essence-in-the-archaic-notes-towards-a-historical-materialist-account-of-the-concept-of-essence",
         
-          window.location.href = "/blog/2025/MarginNotes_1_2/";
+          title: "Essence in the Archaic. Notes Towards a Historical Materialist Account of the Concept...",
         
-      },
-    },{id: "post-recovering-the-kernels-of-early-critical-theory",
-      
-        title: "Recovering the Kernels of Early Critical Theory",
-      
-      description: "Article from Margin Notes 1",
-      section: "Posts",
-      handler: () => {
+        description: "Article from Margin Notes 1",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/MarginNotes_1_2/";
+          
+        },
+      },{id: "post-recovering-the-kernels-of-early-critical-theory",
         
-          window.location.href = "/blog/2025/MarginNotes_1_1/";
+          title: "Recovering the Kernels of Early Critical Theory",
         
-      },
-    },{id: "post-suffering-reified-on-adorno-s-thoughts-on-reification-and-suffering",
-      
-        title: "Suffering Reified. On Adorno’s Thoughts on Reification and Suffering",
-      
-      description: "Antisemitism and forgetting",
-      section: "Posts",
-      handler: () => {
+        description: "Article from Margin Notes 1",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/MarginNotes_1_1/";
+          
+        },
+      },{id: "post-suffering-reified-on-adorno-s-thoughts-on-reification-and-suffering",
         
-          window.location.href = "/blog/2025/Antisemitism_and_forgetting/";
+          title: "Suffering Reified. On Adorno’s Thoughts on Reification and Suffering",
         
-      },
-    },{id: "post-précis-of-mannheim-s-ideology-and-utopia",
-      
-        title: "Précis of Mannheim’s Ideology and Utopia",
-      
-      description: "A brief reconstruction of Mannheim’s thought",
-      section: "Posts",
-      handler: () => {
+        description: "Antisemitism and forgetting",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Antisemitism_and_forgetting/";
+          
+        },
+      },{id: "post-précis-of-mannheim-s-ideology-and-utopia",
         
-          window.location.href = "/blog/2024/Mannheim/";
+          title: "Précis of Mannheim’s Ideology and Utopia",
         
-      },
-    },{id: "post-hans-jürgen-krahl-39-s-authorities-and-revolution",
-      
-        title: "Hans-Jürgen Krahl&#39;s Authorities and Revolution",
-      
-      description: "A translation of Hans-Jürgen Krahl&#39;s 1968 text &quot;Authorities and Revolution&quot; | by J. E. Morain",
-      section: "Posts",
-      handler: () => {
+        description: "A brief reconstruction of Mannheim’s thought",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Mannheim/";
+          
+        },
+      },{id: "post-hans-jürgen-krahl-39-s-authorities-and-revolution",
         
-          window.location.href = "/blog/2024/Krahl-translation/";
+          title: "Hans-Jürgen Krahl&#39;s Authorities and Revolution",
         
-      },
-    },{id: "post-the-origins-of-studien-über-autorität-und-familie",
-      
-        title: "The Origins of Studien über Autorität und Familie",
-      
-      description: "A report on the early history of the Institute for Social Research&#39;s Studien über Autorität und Familie project",
-      section: "Posts",
-      handler: () => {
+        description: "A translation of Hans-Jürgen Krahl&#39;s 1968 text &quot;Authorities and Revolution&quot; | by J. E. Morain",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Krahl-translation/";
+          
+        },
+      },{id: "post-the-origins-of-studien-über-autorität-und-familie",
         
-          window.location.href = "/blog/2024/origins_of_the_family/";
+          title: "The Origins of Studien über Autorität und Familie",
         
-      },
-    },{id: "post-the-concept-of-language-and-linguistic-presentation-in-horkheimer-and-adorno-by-hermann-schweppenhäuser-1986",
-      
-        title: "The concept of language and linguistic presentation in Horkheimer and Adorno, by Hermann...",
-      
-      description: "An essay by Hermann Schweppenhäuser on the concept of language and linguistic presentation in Horkheimer and Adorno.",
-      section: "Posts",
-      handler: () => {
+        description: "A report on the early history of the Institute for Social Research&#39;s Studien über Autorität und Familie project",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/origins_of_the_family/";
+          
+        },
+      },{id: "post-the-concept-of-language-and-linguistic-presentation-in-horkheimer-and-adorno-by-hermann-schweppenhäuser-1986",
         
-          window.location.href = "/blog/2024/language/";
+          title: "The concept of language and linguistic presentation in Horkheimer and Adorno, by Hermann...",
         
-      },
-    },{id: "post-help-for-the-helpless-teddie-s-music-theory-of-communism-a-prelude",
-      
-        title: "Help for the Helpless Teddie’s Music Theory of Communism, A Prelude",
-      
-      description: "A brief introduction to the music theory of communism",
-      section: "Posts",
-      handler: () => {
+        description: "An essay by Hermann Schweppenhäuser on the concept of language and linguistic presentation in Horkheimer and Adorno.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/language/";
+          
+        },
+      },{id: "post-help-for-the-helpless-teddie-s-music-theory-of-communism-a-prelude",
         
-          window.location.href = "/blog/2024/help_for_the_helpless/";
+          title: "Help for the Helpless Teddie’s Music Theory of Communism, A Prelude",
         
-      },
-    },{id: "post-zfs-in-english",
-      
-        title: "ZfS in English",
-      
-      description: "Collection of English translations of articles from the Zeitschrift für Sozialforschung (1932-1941), volumes 1-9.",
-      section: "Posts",
-      handler: () => {
+        description: "A brief introduction to the music theory of communism",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/help_for_the_helpless/";
+          
+        },
+      },{id: "post-zfs-in-english",
         
-          window.location.href = "/blog/2023/ZfS/";
+          title: "ZfS in English",
         
-      },
-    },{id: "post-previous-sessions-and-work",
-      
-        title: "Previous Sessions and Work",
-      
-      description: "Write-up of past reading group sessions",
-      section: "Posts",
-      handler: () => {
+        description: "Collection of English translations of articles from the Zeitschrift für Sozialforschung (1932-1941), volumes 1-9.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ZfS/";
+          
+        },
+      },{id: "post-previous-sessions-and-work",
         
-          window.location.href = "/blog/2023/previous_work/";
+          title: "Previous Sessions and Work",
         
-      },
-    },{id: "books-the-godfather",
+        description: "Write-up of past reading group sessions",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/previous_work/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
@@ -437,16 +444,21 @@ ninja.data = [{
           description: "Fragments of Critical Theory of Domination.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-critique-of-the-podcast-form",
-          title: 'Critique of the Podcast Form',
-          description: "A critical theory podcast by critical theory work group.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-margin-notes-volume-2",
           title: 'Margin Notes Volume 2',
           description: "Coming soon",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/3_project/";
+            },},{id: "teachings-data-science-fundamentals",
+          title: 'Data Science Fundamentals',
+          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/data-science-fundamentals/";
+            },},{id: "teachings-introduction-to-machine-learning",
+          title: 'Introduction to Machine Learning',
+          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
