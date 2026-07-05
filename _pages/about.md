@@ -128,7 +128,7 @@ announcements: #This is the news feed
   </a>
 
   <a href="/podcast/" class="content-card">
-    <div class="content-card-image" style="background-image: url('{{ '/assets/img/podcast.png' | relative_url }}');"></div>
+    <div class="content-card-image" style="background-image: url('{{ '/assets/img/Podcast.png' | relative_url }}');"></div>
     <div class="content-card-body">
       <p class="content-card-title">Podcast</p>
       <p class="content-card-desc">Conversations and episode archive</p>
