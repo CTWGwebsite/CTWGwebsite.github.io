@@ -27,7 +27,7 @@ profiles:
     image_circular: false # crops the image to make it circular
   - align: right
     image: HelenE.jpg
-    content: about_eleanor.md
+    content: about_eleonora.md
     image_circular: false # crops the image to make it circular
   - align: left
     image: AnatarahK.jpg

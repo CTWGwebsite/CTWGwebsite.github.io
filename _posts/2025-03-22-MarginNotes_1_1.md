@@ -337,15 +337,15 @@ offered by historians and the early critical theorists themselves (from
 Sohn-Rethel to Adorno).
 
 In "On the Falsity of Prevailing Ideas: The Concept of Ideology in Early
-Critical Theory," Samuel J. Thomas argues for the importance of
+Critical Theory," Helen Eleonora argues for the importance of
 Horkheimer's critique of Karl Mannheim's *Ideology and Utopia* in the
-early 1930s for a *critical theory of ideology*.<d-footnote>For a supplementary précis of Mannheim's *Ideology and Utopia*, see Samuel J. Thomas, "Précis of Mannheim's Ideology and Utopia." CTWG Blog, November 12, 2024. <https://ctwgwebsite.github.io/blog/2024/Mannheim/></d-footnote> Distinguishing
-between *Ideologietheorie* and *Ideologiekritik*, Thomas demonstrates
+early 1930s for a *critical theory of ideology*.<d-footnote>For a supplementary précis of Mannheim's *Ideology and Utopia*, see Helen Eleonora, "Précis of Mannheim's Ideology and Utopia." CTWG Blog, November 12, 2024. <https://ctwgwebsite.github.io/blog/2024/Mannheim/></d-footnote> Distinguishing
+between *Ideologietheorie* and *Ideologiekritik*, Eleonora demonstrates
 that Horkheimer's critique of the methodology of Mannheim's 'value-free'
 'sociology of knowledge' (*Wissenssoziologie*) turns on this distinction
 and, moreover, on the problematic and unreflective separation of these
 moments in Mannheim's project. In the course of this reconstruction,
-Thomas develops a model for diagnosing the pitfalls of more
+Eleonora develops a model for diagnosing the pitfalls of more
 contemporary, one-sided approaches to theories and critiques of ideology
 and argues that the singular difficulty of analyzing ideology under the
 conditions of capitalist social relations requires the adoption of a
@@ -355,15 +355,15 @@ throughout the 1930s, in which ideology *theory* focuses on the
 functional role of ideology in relations of class domination and
 ideology *critique* focuses on the relation between ideology and
 totality (as well as ideological theories of ideology and totality),
-Thomas contextualizes Horkheimer's own conception of ideology as
+Eleonora contextualizes Horkheimer's own conception of ideology as
 self-contextualizing. This is required by the self-reflexive core of the
-critical theory of ideology, which Thomas calls the 'double
+critical theory of ideology, which Eleonora calls the 'double
 determination' of any inquiry into ideology itself: the mode in which
 capitalist social totality determines the object of analysis and the
 subject of the researcher who seeks to offer a theory or critique of
 ideology. After exhibiting this approach in the case of Horkheimer's own
 analysis of the bourgeois revolutionary in the figure of Tommaso
-Campanella (inter alia), Thomas concludes with polemical suggestions for
+Campanella (inter alia), Eleonora concludes with polemical suggestions for
 the further development of the critical theory of ideology.
 
 In "Analytic Social Psychology as Critical Social Theory," J.E. Morain
