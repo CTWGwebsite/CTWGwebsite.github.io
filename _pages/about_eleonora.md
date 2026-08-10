@@ -1,0 +1,1 @@
+Helen Eleonora is a philosophy student writing a dissertation on democratic backsliding, and more importantly, a bassist in a band called Burial Mask. Her work in critical theory consists in yapping about the domination of nature broadly construed. She is also the resident Italophone, much to her delight and chagrin.

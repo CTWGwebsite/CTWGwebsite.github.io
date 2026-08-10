@@ -446,7 +446,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-margin-notes-volume-2",
           title: 'Margin Notes Volume 2',
-          description: "Coming soon",
+          description: "Volume 2 of Margin Notes. Excavations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
