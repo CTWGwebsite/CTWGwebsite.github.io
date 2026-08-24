@@ -434,6 +434,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
+            },},{id: "news-margin-notes-2-pdf-is-out",
+          title: 'Margin Notes 2 (PDF) is out!!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_11/";
             },},{id: "projects-margin-notes-volume-1",
           title: 'Margin Notes Volume 1',
           description: "Volume 1 of Margin Notes. Kernels of early critical theory.",
