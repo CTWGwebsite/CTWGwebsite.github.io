@@ -5,7 +5,7 @@ description: Volume 2 of Margin Notes. Excavations
 img: assets/img/Issue2.png
 importance: 2
 category: Journal
-giscus_comments: false
+giscus_comments: true
 ---
 
 
