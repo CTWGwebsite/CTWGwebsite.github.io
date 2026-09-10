@@ -29,19 +29,19 @@ Click [here](/assets/pdf/journal/Margin_notes_2_final_full.pdf) to download the 
 ### Articles
 
 1. Editorial: Excavations by the CTWG Editorial Board
-2. Lukács in Context: Organization, Revolution, Self-Criticism by J. E. Morain
+2. <a href="/blog/2026/MarginNotes_2_1/"> Lukács in Context: Organization, Revolution, Self-Criticism by J. E. Morain </a>
 3. Appendix: Self-Criticism (1920) by Georg Lukács
 
 
 ### Fragments
 
-* Shards of Spirit by the CTWG
+* <a href="/blog/2026/MarginNotes_2_2/">Shards of Spirit by the CTWG</a>
 
 
 ### Translations
 
 1. Ontology and Eros: On the Speculative Deduction of Homosexuality - A Lemmatical Sketch by Hans-Jürgen Krahl (introduced and translated by J. E. Morain)
-2. The Biological Individual by Julius Schaxel (introducced by Anatarah Bin AlKaf and translated by James Crane)
-3. Fragments of a Dialectical Logic (1938-1949) by Max Horkheimer and Theodor Adorno (Introduction by James Crane. Translated and Edited by James Crane and J. E. Morain.)
+2. <a href="/blog/2026/MarginNotes_2_3/">The Biological Individual by Julius Schaxel (introducced by Anatarah Bin AlKaf and translated by James Crane)</a>
+3. <a href="/blog/2026/MarginNotes_2_4/">Fragments of a Dialectical Logic (1938-1949) by Max Horkheimer and Theodor Adorno (Introduction by James Crane. Translated and Edited by James Crane and J. E. Morain.)</a>
 
 Thank you for your support and we hope you enjoy reading this volume!
