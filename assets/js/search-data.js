@@ -51,7 +51,51 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/index.html";
           },
-        },{id: "post-horkheimer-and-korsch-collectivisation-during-the-spanish-civil-war-or-the-spirit-of-the-anti-racket",
+        },{id: "post-fragments-of-a-dialectical-logic-1938-1949",
+        
+          title: "Fragments of a Dialectical Logic (1938-1949)",
+        
+        description: "Article from Margin Notes 2",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/MarginNotes_2_4/";
+          
+        },
+      },{id: "post-the-biological-individual",
+        
+          title: "The Biological Individual",
+        
+        description: "Article from Margin Notes 2",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/MarginNotes_2_3/";
+          
+        },
+      },{id: "post-shards-of-spirit",
+        
+          title: "Shards of Spirit",
+        
+        description: "Article from Margin Notes 2",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/MarginNotes_2_2/";
+          
+        },
+      },{id: "post-lukács-in-context-organization-revolution-self-criticism",
+        
+          title: "Lukács in Context. Organization, Revolution, Self-Criticism",
+        
+        description: "Article from Margin Notes 2",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/MarginNotes_2_1/";
+          
+        },
+      },{id: "post-horkheimer-and-korsch-collectivisation-during-the-spanish-civil-war-or-the-spirit-of-the-anti-racket",
         
           title: "Horkheimer and Korsch. Collectivisation during the Spanish (Civil) War or The Spirit of...",
         
