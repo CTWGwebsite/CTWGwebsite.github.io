@@ -9,7 +9,7 @@ giscus_comments: true
 ---
 
 
-We thank everyone for their patience, after a year of work, we are once again proud to share with you the second volume of Margin Notes. You will find a PDF and HTML versions (forthcoming) of this journal issue. Per usual, to incentivize reading the PDF version of the journal, we have left out some of the articles from the HTML version. The PDF version contains all the articles and appendices and is our recommended version for reading.
+We thank everyone for their patience, after a year of work, we are once again proud to share with you the second volume of Margin Notes. You will find a PDF and HTML versions of this journal issue. Per usual, to incentivize reading the PDF version of the journal, we have left out some of the articles from the HTML version. The PDF version contains all the articles and appendices and is our recommended version for reading.
 
 ## PDF Version
 
