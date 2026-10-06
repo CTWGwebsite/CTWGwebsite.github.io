@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/index.html";
           },
-        },{id: "post-fragments-of-a-dialectical-logic-1938-1949",
+        },{id: "post-beneath-class-and-consciousness",
+        
+          title: "Beneath Class and Consciousness",
+        
+        description: "A Critique of Phil A. Neel’s Theory of the Party",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/PartyTheory_1/";
+          
+        },
+      },{id: "post-fragments-of-a-dialectical-logic-1938-1949",
         
           title: "Fragments of a Dialectical Logic (1938-1949)",
         
