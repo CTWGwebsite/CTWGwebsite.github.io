@@ -28,7 +28,7 @@ toc:
     </div>
 </div>
 
-[Read Part I](https://ctwgwebsite.github.io/blog/2025/ReactionPt1/)
+[Read Part I](https://ctwg.net/blog/2025/ReactionPt1/)
 
 ## V \- Translatio Imperii
 

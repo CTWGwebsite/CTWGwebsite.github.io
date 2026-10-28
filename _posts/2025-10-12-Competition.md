@@ -68,7 +68,7 @@ This is perhaps the most prescient aspect of Horkheimer's theory of racketizatio
 
 [^1]:  Friedrich A. von Hayek, *The Road to Serfdom* (Routledge, 2006), 205\.
 
-[^2]:  Mac Parker, “The Economic Limits of Racketology,” CTWG, 2025, [https://ctwgwebsite.github.io/blog/2025/Limits\_of\_Rackets/](https://ctwgwebsite.github.io/blog/2025/Limits_of_Rackets/).
+[^2]:  Mac Parker, “The Economic Limits of Racketology,” CTWG, 2025, [https://ctwg.net/blog/2025/Limits\_of\_Rackets/](https://ctwg.net/blog/2025/Limits_of_Rackets/).
 
 [^3]:  Anwar Shaikh, *Capitalism: Competition, Conflict, Crises* (Oxford University Press), 329\.
 
@@ -102,9 +102,9 @@ This is perhaps the most prescient aspect of Horkheimer's theory of racketizatio
 
 [^18]:  Fine, *Microeconomics: A Critical Companion*, 44\.
 
-[^19]:  Max Horkheimer, “On the Ideology of Politics Today,” CTWG, 2025, [https://ctwgwebsite.github.io/blog/2025/RacketTexts/\#on-the-ideology-of-politics-today-ca-1942](https://ctwgwebsite.github.io/blog/2025/RacketTexts/#on-the-ideology-of-politics-today-ca-1942).
+[^19]:  Max Horkheimer, “On the Ideology of Politics Today,” CTWG, 2025, [https://ctwg.net/blog/2025/RacketTexts/\#on-the-ideology-of-politics-today-ca-1942](https://ctwg.net/blog/2025/RacketTexts/#on-the-ideology-of-politics-today-ca-1942).
 
-[^20]:  Max Horkheimer, “On the Sociology of Class Relations,” CTWG, 2025, [https://ctwgwebsite.github.io/blog/2025/ClassRelations/](https://ctwgwebsite.github.io/blog/2025/ClassRelations/).
+[^20]:  Max Horkheimer, “On the Sociology of Class Relations,” CTWG, 2025, [https://ctwg.net/blog/2025/ClassRelations/](https://ctwg.net/blog/2025/ClassRelations/).
 
 [^21]:  Horkheimer, “On the Ideology of Politics Today.”
 

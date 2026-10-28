@@ -153,7 +153,7 @@ to be used as a means in the struggle for a united world" and "today,
 the words of the fighters and martyrs of that struggle seem to be coming
 from that world."<d-footnote>Horkheimer, "The Urbanity of Language," *Dawn & Decline*. Trans. Michael Shaw. (Continuum: Seabury Press, 1978), 75-76.</d-footnote> The anti-esoteric esotericism of early critical
 theory meant to introduce a torsion in language, giving lie to the
-harmonizing semblance of communicative reason in the present,<d-footnote>Cf. Hermann Schweppenhauser, "The Concept of Language and Linguistic Presentation in Horkheimer and Adorno" (1986), Trans. James/Crane. CTWG Blog, April 22, 2024. <https://ctwgwebsite.github.io/blog/2024/language/></d-footnote> out
+harmonizing semblance of communicative reason in the present,<d-footnote>Cf. Hermann Schweppenhauser, "The Concept of Language and Linguistic Presentation in Horkheimer and Adorno" (1986), Trans. James/Crane. CTWG Blog, April 22, 2024. <https://ctwg.net/blog/2024/language/></d-footnote> out
 of fidelity to the vulnerable possibility of "the society we imagine as
 unfolded reason."<d-footnote>Horkheimer to Adolph Lowe, 1/4/1938. *MHGS Vol. 16* (1995), 355-356. Author's translation.</d-footnote>
 
@@ -312,7 +312,7 @@ unresolved integrity of which can only be presented through critique.
 
 In "Essence in the Archaic: Notes Towards a Historical Materialist
 Account of the Concept of Essence," Mac Parker takes on the challenge
-posed in Marcuse's "Concept of Essence" (1936)<d-footnote>Cf. "ZfS in English" for links to available English translations of the essays published in the ISR's ZfS/SPSS. CTWG Blog, November 6, 2024. <https://ctwgwebsite.github.io/blog/2023/ZfS/></d-footnote> the
+posed in Marcuse's "Concept of Essence" (1936)<d-footnote>Cf. "ZfS in English" for links to available English translations of the essays published in the ISR's ZfS/SPSS. CTWG Blog, November 6, 2024. <https://ctwg.net/blog/2023/ZfS/></d-footnote> the
 historical-materialist reconceptualization of the concept of essence,
 understood by the early critical theorists as the potential freedom
 inherent in different historical situations in which the doctrine of
@@ -339,7 +339,7 @@ Sohn-Rethel to Adorno).
 In "On the Falsity of Prevailing Ideas: The Concept of Ideology in Early
 Critical Theory," Helen Eleonora argues for the importance of
 Horkheimer's critique of Karl Mannheim's *Ideology and Utopia* in the
-early 1930s for a *critical theory of ideology*.<d-footnote>For a supplementary précis of Mannheim's *Ideology and Utopia*, see Helen Eleonora, "Précis of Mannheim's Ideology and Utopia." CTWG Blog, November 12, 2024. <https://ctwgwebsite.github.io/blog/2024/Mannheim/></d-footnote> Distinguishing
+early 1930s for a *critical theory of ideology*.<d-footnote>For a supplementary précis of Mannheim's *Ideology and Utopia*, see Helen Eleonora, "Précis of Mannheim's Ideology and Utopia." CTWG Blog, November 12, 2024. <https://ctwg.net/blog/2024/Mannheim/></d-footnote> Distinguishing
 between *Ideologietheorie* and *Ideologiekritik*, Eleonora demonstrates
 that Horkheimer's critique of the methodology of Mannheim's 'value-free'
 'sociology of knowledge' (*Wissenssoziologie*) turns on this distinction
@@ -374,7 +374,7 @@ social psychology,' which would provide the conceptual scaffolding of
 the group's *Studien über Autorität und Familie* (1936) and, arguably,
 the framework and foci of the 'socio-psychological' approach to
 empirical research the ISR would use throughout the 1940s, culminating
-in *The Authoritarian Personality* (1950).<d-footnote>See Morain's recent report on research conducted at the Erich Fromm archive on the CTWG blog, which reconstructs the systematic, Marxian conception Fromm contributed to the ISR's *Studien über Autorität und Familie* (1936): "The Origins of Studien über Autorität und Familie." CTWG Blog, April 27, 2024. <https://ctwgwebsite.github.io/blog/2024/origins_of_the_family/></d-footnote> In this essay, Morain
+in *The Authoritarian Personality* (1950).<d-footnote>See Morain's recent report on research conducted at the Erich Fromm archive on the CTWG blog, which reconstructs the systematic, Marxian conception Fromm contributed to the ISR's *Studien über Autorität und Familie* (1936): "The Origins of Studien über Autorität und Familie." CTWG Blog, April 27, 2024. <https://ctwg.net/blog/2024/origins_of_the_family/></d-footnote> In this essay, Morain
 begins with a critical survey of secondary literature on Fromm's
 contribution to 'The Frankfurt School,' which, on the whole, has read
 Fromm from a 'standpoint of redemption' that assumes the condemnation of
@@ -418,7 +418,7 @@ and Possibilities," Esther Planas Balduz tackles the problem of the
 normative orientation of early critical theory through immanent critique
 of Horkheimer's foundational essays on Marxist materialism for the
 *ZfS*: "Materialism and Metaphysics" (1932) and "Materialism and Morals"
-(1932).<d-footnote>Cf. "ZfS in English." CTWG Blog, November 6, 2024. <https://ctwgwebsite.github.io/blog/2023/ZfS/></d-footnote> Namely: how can we account for the moral dimension of the
+(1932).<d-footnote>Cf. "ZfS in English." CTWG Blog, November 6, 2024. <https://ctwg.net/blog/2023/ZfS/></d-footnote> Namely: how can we account for the moral dimension of the
 Marxist materialist's critique of morality? Notwithstanding the critique
 of 'value-free' social theory in early critical theory as a whole, and
 in Horkheimer's work in particular, Horkheimer himself criticizes moral

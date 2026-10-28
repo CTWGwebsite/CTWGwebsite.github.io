@@ -917,7 +917,7 @@ into Freud*. Beacon Press, 1974 \[1955\].
 
 Morain, J.E. "The Origins of *Studien über Autorität und Familie.*"
 *Critical Theory Working Group Blog*, 27 April 2024,
-<https://ctwgwebsite.github.io/blog/2024/origins_of_the_family/>
+<https://ctwg.net/blog/2024/origins_of_the_family/>
 
 Noerr, Gunzelin Schmid. "Warum wir so handeln wollen, wie wir handeln
 müssen. Erich Fromm und das Institut für Sozialforschung." *Fromm

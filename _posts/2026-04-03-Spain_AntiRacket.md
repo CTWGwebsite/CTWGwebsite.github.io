@@ -135,7 +135,7 @@ With Rosa Luxemburg, we can understand that the spirit of the anti-racket is dee
 
 [^1]:   “Horkheimer’s Letters With Korsch (1938-1939),” *Substudies* (blog), May 21, 2025, [https://jamescrane.substack.com/p/horkheimers-letters-with-korsch-1938](https://jamescrane.substack.com/p/horkheimers-letters-with-korsch-1938).
 
-[^2]:  Max Horkheimer, “Notes for the Programme of the Book (8/30/1942),” CTWG, 2025. [https://ctwgwebsite.github.io/blog/2025/RacketTexts/\#notes-for-the-programme-of-the-book-8-30-1942](https://ctwgwebsite.github.io/blog/2025/RacketTexts/#notes-for-the-programme-of-the-book-8-30-1942).
+[^2]:  Max Horkheimer, “Notes for the Programme of the Book (8/30/1942),” CTWG, 2025. [https://ctwg.net/blog/2025/RacketTexts/\#notes-for-the-programme-of-the-book-8-30-1942](https://ctwg.net/blog/2025/RacketTexts/#notes-for-the-programme-of-the-book-8-30-1942).
 
 [^3]:  Horkheimer, “On the Sociology of Class Relations.”
 
@@ -157,7 +157,7 @@ With Rosa Luxemburg, we can understand that the spirit of the anti-racket is dee
 
 [^12]:  The aspects of mimesis that Adorno points at in Negative Dialectics are also useful here: “...the mimetic element of knowledge, for the element of elective affinity between the knower and the known.” In Theodor W. Adorno, *Negative Dialectics*, trans. E.B. Ashton (Routledge, 1990 [1973]), 45-55. For a more recent translation, see: Theodor W. Adorno, *Negative Dialectics*, trans. Dennis Redmond (2021 [2001]), [https://platypus1917.org/wp-content/uploads/Negative\_Dialectics\_Redmondtrans2021.pdf](https://platypus1917.org/wp-content/uploads/Negative_Dialectics_Redmondtrans2021.pdf). For more on Adorno’s concept of the mimetic impulse, which posits a simultaneous character of mimesis and spontaneity, see: Pierre-François Noppen, “Adorno on Mimetic Rationality: Three Puzzles,” *Adorno Studies* 1, no. 1 (January 3, 2017), 79-100, [http://adornostudies.org/ojs/index.php/as/article/download/7/22](http://adornostudies.org/ojs/index.php/as/article/download/7/22). 
 
-[^13]:  Max Horkheimer, “On the Sociology of Class Relations,” and Max Horkheimer, “Rackets and Spirit (1942/44),” CTWG, 2025, [https://ctwgwebsite.github.io/blog/2025/RacketTexts/\#rackets-and-spirit-1942-44](https://ctwgwebsite.github.io/blog/2025/RacketTexts/#rackets-and-spirit-1942-44). 
+[^13]:  Max Horkheimer, “On the Sociology of Class Relations,” and Max Horkheimer, “Rackets and Spirit (1942/44),” CTWG, 2025, [https://ctwg.net/blog/2025/RacketTexts/\#rackets-and-spirit-1942-44](https://ctwg.net/blog/2025/RacketTexts/#rackets-and-spirit-1942-44). 
 
 [^15]:  Horkheimer, “On the Sociology of Class Relations.” 
 

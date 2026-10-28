@@ -110,9 +110,9 @@ Both of these internal documents show the Institute’s continued interest in sy
 
 <br>
 
-[Read the Fragments and Texts on Racket Theory](https://ctwgwebsite.github.io/blog/2025/RacketTexts/)
+[Read the Fragments and Texts on Racket Theory](https://ctwg.net/blog/2025/RacketTexts/)
 
-[Read “On the Sociology of Class Relations”](https://ctwgwebsite.github.io/blog/2025/ClassRelations/)
+[Read “On the Sociology of Class Relations”](https://ctwg.net/blog/2025/ClassRelations/)
 
 <br>
 
@@ -126,7 +126,7 @@ Both of these internal documents show the Institute’s continued interest in sy
 
 [^3]:  Max Horkheimer, “Authority and the Family” \[1936\] in *Critical Theory: Selected Essays* (Continuum, 2002), 68-69.
 
-[^4]:  For more on Erich Fromm’s importance for the Freudo-Marxist ‘analytic social psychology’ of the early Frankfurt School, see J. E. Morain, “Analytic Social Psychology as Critical Social Theory” in *Margin Notes, Vol. 1* (2024) \[[Link](https://ctwgwebsite.github.io/blog/2025/MarginNotes_1_4/)\] and J. E. Morain, “Escape Velocities” in *Parapraxis*, Issue 05\. (2025) \[[link](https://www.parapraxismagazine.com/articles/escape-velocities)\]
+[^4]:  For more on Erich Fromm’s importance for the Freudo-Marxist ‘analytic social psychology’ of the early Frankfurt School, see J. E. Morain, “Analytic Social Psychology as Critical Social Theory” in *Margin Notes, Vol. 1* (2024) \[[Link](https://ctwg.net/blog/2025/MarginNotes_1_4/)\] and J. E. Morain, “Escape Velocities” in *Parapraxis*, Issue 05\. (2025) \[[link](https://www.parapraxismagazine.com/articles/escape-velocities)\]
 
 [^5]:  For more on Horkheimer and Adorno’s criticisms of Pollock’s state capitalism thesis, see [James Schmidt, “‘Racket,’ ‘Monopoly,’ and the Dialectic of Enlightenment” in *Persistent Enlightenment* (blog), 1/12/2016](https://persistentenlightenment.com/2016/01/12/rackets/) and [James Crane, “On Reading Critical Theory I: Perspectival Distortions” in *Substudies* (blog), 5/9/2025](https://jamescrane.substack.com/p/on-reading-critical-theory-i-perspectival)
 
@@ -182,7 +182,7 @@ Both of these internal documents show the Institute’s continued interest in sy
 
 [^31]:  For a criticism of some of the most authoritative versions of this interpretive convention (e.g., Rolf Wiggershaus, Gunzelin Schmid Noerr, Willem van Reijen and Jan Bransen), see James Schmidt, [“‘Racket,’ ‘Monopoly,’ and the *Dialectic of Enlightenment*” on *Persistent Enlightenment* (blog), 12 January 2016](https://persistentenlightenment.com/2016/01/12/rackets/). 
 
-[^32]:  For more on the paradoxical position of the racket in the *longue* *durée* of class society and modern monopoly capitalism, see [Re Tejus, “Class and Rackets, Part I \- Conditions” in *Critical Theory Working Group Blog* (blog), 2 June 2025\.](https://ctwgwebsite.github.io/blog/2025/Rackets_part1/)
+[^32]:  For more on the paradoxical position of the racket in the *longue* *durée* of class society and modern monopoly capitalism, see [Re Tejus, “Class and Rackets, Part I \- Conditions” in *Critical Theory Working Group Blog* (blog), 2 June 2025\.](https://ctwg.net/blog/2025/Rackets_part1/)
 
 [^33]:  Cf. Theodor W. Adorno to Max Horkheimer, 2 July 1949, in *Adorno Horkheimer Briefwechsel, Band III*, 282-283.
 
@@ -216,4 +216,4 @@ Both of these internal documents show the Institute’s continued interest in sy
 
 [^48]:  Typescript, “Exzerpte aus Schriften zur Geschichte der Rackets (von Theodor W. Adorno)” [MHA Na 1, 805, 182ff](https://sammlungen.ub.uni-frankfurt.de/horkheimer/content/titleinfo/6608137)
 
-[^49]:  See [J. E. Morain, “The Origins of *Studien über Autorität und Familie*” in *Critical Theory Working Group Blog* (blog), 4/27/2024](https://ctwgwebsite.github.io/blog/2024/origins_of_the_family/).
+[^49]:  See [J. E. Morain, “The Origins of *Studien über Autorität und Familie*” in *Critical Theory Working Group Blog* (blog), 4/27/2024](https://ctwg.net/blog/2024/origins_of_the_family/).
