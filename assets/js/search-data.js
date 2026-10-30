@@ -494,7 +494,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
-            },},{id: "projects-margin-notes-volume-1",
+            },},{id: "news-we-have-updated-our-domain-name-now-we-live-in-ctwg-dot-net",
+          title: 'We have updated our domain name. Now we live in ctwg (dot) net!...',
+          description: "",
+          section: "News",},{id: "projects-margin-notes-volume-1",
           title: 'Margin Notes Volume 1',
           description: "Volume 1 of Margin Notes. Kernels of early critical theory.",
           section: "Projects",handler: () => {
