@@ -3,7 +3,7 @@ layout: distill
 title: Racketology and the Development of Competition
 description: A Reply to Mac Parker
 tags: report write-up study
-categories: Racketology
+categories: Racketology Submission
 giscus_comments: true
 related_posts: true
 date: 2025-10-12

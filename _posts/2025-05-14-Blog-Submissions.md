@@ -19,7 +19,7 @@ The Critical Theory Working Group is proud to welcome unsolicited submissions fo
 
 *Formal requirements* :
 
-* Original submissions should be a single finished text (not a pitch) with a maximum length of around 3000 words (not counting bibliography).
+* Original submissions should be a single finished text (not a pitch) with a maximum length of around 9000 words (not counting bibliography).
 * Submissions need not be traditional essays; we accept aphorisms, ‘theses,’ dialogues, and similar non-traditional genres of theoretical writing.
 * Submissions should be accompanied by a short summary or abstract of a few sentences (ca. 200 words).
 * US-American spelling and grammar is preferred, but not required.

@@ -3,7 +3,7 @@ layout: distill
 title: Beneath Class and Consciousness
 description: A Critique of Phil A. Neel’s Theory of the Party
 tags: blog party critique
-categories: blog
+categories: Submission
 giscus_comments: true
 related_posts: true
 date: 2026-10-06
